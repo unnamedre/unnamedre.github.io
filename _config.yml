@@ -1,1 +1,18 @@
-theme: jekyll-theme-midnight
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'UREP'
+tagline:          ''
+description:      'Unnamed Reverse Engineering Podcast'
+url:              http://unnamedre.github.ui
+
+author:
+  name:           'Alvaro Prieto and Jen Costillo'
+  url:            https://twitter.com/unnamed_show
+
+paginate:         5
