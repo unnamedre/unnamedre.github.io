@@ -13,6 +13,11 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% if post.dir_id != null %}
+    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ post.dir_id }}/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    {% endif %}
+
+    <hr/>
 
     {{ post.content }}
   </div>
