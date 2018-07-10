@@ -5,4 +5,182 @@ date: 2018-04-15 03:15:35
 categories: episode
 dir_id: 6481402
 ---
-<p><span style="font-weight: 400;">In this episode, we talked about measuring things (Well mostly digital and some analog things)!</span></p> <ul> <li style="font-weight: 400;"><a href= "https://en.wikipedia.org/wiki/Multimeter"><span style= "font-weight: 400;">Digital Multimeter</span></a></li> <li style="font-weight: 400;"><a href= "https://en.wikipedia.org/wiki/Oscilloscope"><span style= "font-weight: 400;">Oscilloscope</span></a></li> <li style="list-style: none; display: inline;"> <ul> <li style="font-weight: 400;"><span style= "font-weight: 400;">Passive vs</span> <a href= "https://www.eetimes.com/document.asp?doc_id=1279659"><span style= "font-weight: 400;">active</span></a> <span style= "font-weight: 400;">probes</span></li> <li style="font-weight: 400;"><a href= "https://www.testandmeasurementtips.com/measuring-current-with-oscilloscope-voltage-probe/"> <span style="font-weight: 400;">Current probes</span></a></li> </ul> </li> <li style="font-weight: 400;"><a href= "https://en.wikipedia.org/wiki/Logic_analyzer"><span style= "font-weight: 400;">Logic Analyzers</span></a></li> <li style="list-style: none; display: inline;"> <ul> <li style="font-weight: 400;"><a href= "https://www.saleae.com/"><span style="font-weight: 400;">Saleae Logic</span></a></li> <li style="list-style: none; display: inline;"> <ol> <li style="font-weight: 400;"><span style= "font-weight: 400;">Mentioned on the</span> <a href= "http://embedded.fm"><span style= "font-weight: 400;">Embedded.fm</span></a> <span style= "font-weight: 400;">podcast</span> <a href= "http://www.logicalelegance.com/journey/2013/05/tools-sometimes-define-the-problem/"> <span style="font-weight: 400;">Episode 2</span></a></li> <li style="font-weight: 400;"><span style="font-weight: 400;">Now with</span> <a href= "https://blog.saleae.com/real-time-view-early-version-out-today/"><span style="font-weight: 400;"> Real Time View</span></a><span style= "font-weight: 400;">!</span></li> </ol> </li> <li style="font-weight: 400;"><a href= "https://analogdiscovery.com/"><span style= "font-weight: 400;">Analog Discovery 2</span></a></li> <li style="font-weight: 400;"><a href= "https://sigrok.org/"><span style= "font-weight: 400;">Sigrok</span></a> <span style= "font-weight: 400;">(</span><a href= "https://sigrok.org/wiki/Supported_hardware#Logic_analyzers"><span style="font-weight: 400;">Supported Logic Analyzers</span></a><span style= "font-weight: 400;">)</span></li> <li style="font-weight: 400;"><a href= "http://bitscope.com/"><span style= "font-weight: 400;">Bitscope</span></a></li> <li style="font-weight: 400;"><a href= "http://dangerousprototypes.com/docs/Bus_Pirate"><span style= "font-weight: 400;">BusPirate</span></a></li> </ul> </li> </ul> <p><span style="font-weight: 400;">Perhaps we missed your favorite tool or you had questions and comments about our list, find us on twitter</span> <a href= "https://twitter.com/unnamed_show"><span style= "font-weight: 400;">@unnamed_show</span></a><span style= "font-weight: 400;">,  or email us at</span> <a href= "mailto:show@unnamedre.com"><strong>show@unnamedre.com</strong></a> <span style="font-weight: 400;">and tell us.</span></p> <p><strong>Music by</strong> <a href= "http://www.teknoaxe.com"><strong>TeknoAxe</strong></a> <strong>(</strong><a href= "http://www.youtube.com/user/teknoaxe"><strong>http://www.youtube.com/user/teknoaxe</strong></a><strong>)</strong></p>
+<p>
+ <span style="font-weight: 400;">
+  In this episode, we talked about measuring things (Well mostly digital and some analog things)!
+ </span>
+</p>
+<ul>
+ <li style="font-weight: 400;">
+  <a href="https://en.wikipedia.org/wiki/Multimeter">
+   <span style="font-weight: 400;">
+    Digital Multimeter
+   </span>
+  </a>
+ </li>
+ <li style="font-weight: 400;">
+  <a href="https://en.wikipedia.org/wiki/Oscilloscope">
+   <span style="font-weight: 400;">
+    Oscilloscope
+   </span>
+  </a>
+ </li>
+ <li style="list-style: none; display: inline;">
+  <ul>
+   <li style="font-weight: 400;">
+    <span style="font-weight: 400;">
+     Passive vs
+    </span>
+    <a href="https://www.eetimes.com/document.asp?doc_id=1279659">
+     <span style="font-weight: 400;">
+      active
+     </span>
+    </a>
+    <span style="font-weight: 400;">
+     probes
+    </span>
+   </li>
+   <li style="font-weight: 400;">
+    <a href="https://www.testandmeasurementtips.com/measuring-current-with-oscilloscope-voltage-probe/">
+     <span style="font-weight: 400;">
+      Current probes
+     </span>
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li style="font-weight: 400;">
+  <a href="https://en.wikipedia.org/wiki/Logic_analyzer">
+   <span style="font-weight: 400;">
+    Logic Analyzers
+   </span>
+  </a>
+ </li>
+ <li style="list-style: none; display: inline;">
+  <ul>
+   <li style="font-weight: 400;">
+    <a href="https://www.saleae.com/">
+     <span style="font-weight: 400;">
+      Saleae Logic
+     </span>
+    </a>
+   </li>
+   <li style="list-style: none; display: inline;">
+    <ol>
+     <li style="font-weight: 400;">
+      <span style="font-weight: 400;">
+       Mentioned on the
+      </span>
+      <a href="http://embedded.fm">
+       <span style="font-weight: 400;">
+        Embedded.fm
+       </span>
+      </a>
+      <span style="font-weight: 400;">
+       podcast
+      </span>
+      <a href="http://www.logicalelegance.com/journey/2013/05/tools-sometimes-define-the-problem/">
+       <span style="font-weight: 400;">
+        Episode 2
+       </span>
+      </a>
+     </li>
+     <li style="font-weight: 400;">
+      <span style="font-weight: 400;">
+       Now with
+      </span>
+      <a href="https://blog.saleae.com/real-time-view-early-version-out-today/">
+       <span style="font-weight: 400;">
+        Real Time View
+       </span>
+      </a>
+      <span style="font-weight: 400;">
+       !
+      </span>
+     </li>
+    </ol>
+   </li>
+   <li style="font-weight: 400;">
+    <a href="https://analogdiscovery.com/">
+     <span style="font-weight: 400;">
+      Analog Discovery 2
+     </span>
+    </a>
+   </li>
+   <li style="font-weight: 400;">
+    <a href="https://sigrok.org/">
+     <span style="font-weight: 400;">
+      Sigrok
+     </span>
+    </a>
+    <span style="font-weight: 400;">
+     (
+    </span>
+    <a href="https://sigrok.org/wiki/Supported_hardware#Logic_analyzers">
+     <span style="font-weight: 400;">
+      Supported Logic Analyzers
+     </span>
+    </a>
+    <span style="font-weight: 400;">
+     )
+    </span>
+   </li>
+   <li style="font-weight: 400;">
+    <a href="http://bitscope.com/">
+     <span style="font-weight: 400;">
+      Bitscope
+     </span>
+    </a>
+   </li>
+   <li style="font-weight: 400;">
+    <a href="http://dangerousprototypes.com/docs/Bus_Pirate">
+     <span style="font-weight: 400;">
+      BusPirate
+     </span>
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p>
+ <span style="font-weight: 400;">
+  Perhaps we missed your favorite tool or you had questions and comments about our list, find us on twitter
+ </span>
+ <a href="https://twitter.com/unnamed_show">
+  <span style="font-weight: 400;">
+   @unnamed_show
+  </span>
+ </a>
+ <span style="font-weight: 400;">
+  ,  or email us at
+ </span>
+ <a href="mailto:show@unnamedre.com">
+  <strong>
+   show@unnamedre.com
+  </strong>
+ </a>
+ <span style="font-weight: 400;">
+  and tell us.
+ </span>
+</p>
+<p>
+ <strong>
+  Music by
+ </strong>
+ <a href="http://www.teknoaxe.com">
+  <strong>
+   TeknoAxe
+  </strong>
+ </a>
+ <strong>
+  (
+ </strong>
+ <a href="http://www.youtube.com/user/teknoaxe">
+  <strong>
+   http://www.youtube.com/user/teknoaxe
+  </strong>
+ </a>
+ <strong>
+  )
+ </strong>
+</p>
