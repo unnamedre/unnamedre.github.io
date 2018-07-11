@@ -6,157 +6,91 @@ categories: episode
 dir_id: 5746216
 ---
 <p>
- <span style="font-weight: 400;">
-  In this episode, Jen and Alvaro talk about some current events and some basic reverse engineering projects they’ve worked on.
- </span>
+ In this episode, Jen and Alvaro talk about some current events and some basic reverse engineering projects they’ve worked on.
 </p>
 <p>
- <span style="font-weight: 400;">
-  Some of the topics covered were:
- </span>
+ Some of the topics covered were:
 </p>
 <p>
  <a href="http://www.radiolab.org/story/breaking-news/">
-  <span style="font-weight: 400;">
-   Radiolab
-  </span>
+  Radiolab
  </a>
- <span style="font-weight: 400;">
-  episode
- </span>
+ episode
 </p>
 <p>
  <a href="http://vcfed.org/wp/festivals/vintage-computer-festival-west/">
-  <span style="font-weight: 400;">
-   Vintage computer festival
-  </span>
+  Vintage computer festival
  </a>
- <span style="font-weight: 400;">
-  where Jen found
- </span>
+ where Jen found
  <a href="https://twitter.com/Foone">
-  <span style="font-weight: 400;">
-   @foone
-  </span>
+  @foone
  </a>
- <span style="font-weight: 400;">
-  for all your floppy needs.
- </span>
+ for all your floppy needs.
 </p>
 <p>
  <a href="https://www.bunniestudios.com/blog/?p=4937">
-  <span style="font-weight: 400;">
-   Reverse Engineering PCB’s with a synchrotron
-  </span>
+  Reverse Engineering PCB’s with a synchrotron
  </a>
 </p>
 <p>
  <a href="https://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys">
-  <span style="font-weight: 400;">
-   Alvaro’s Keyboard Reverse Engineering project
-  </span>
+  Alvaro’s Keyboard Reverse Engineering project
  </a>
- <span style="font-weight: 400;">
-  but more information on HID USB is on this
- </span>
+ but more information on HID USB is on this
  <a href="http://www.usb.org/developers/hidpage">
-  <span style="font-weight: 400;">
-   page
-  </span>
+  page
  </a>
- <span style="font-weight: 400;">
-  including tools and values sent to keyboard data.
- </span>
+ including tools and values sent to keyboard data.
 </p>
 <p>
- <span style="font-weight: 400;">
-  Jen’s
- </span>
+ Jen’s
  <a href="http://hellobarbiefaq.mattel.com/">
-  <span style="font-weight: 400;">
-   Hello Barbie
-  </span>
+  Hello Barbie
  </a>
- <span style="font-weight: 400;">
-  project &lt;
- </span>
+ project &lt;
  <a href="http://www.rebelbot.com/blog/?p=256">
-  <span style="font-weight: 400;">
-   link
-  </span>
+  link
  </a>
- <span style="font-weight: 400;">
-  &gt; but also
- </span>
+ &gt; but also
  <a href="https://youtu.be/Biu7SH7CS_g">
-  <span style="font-weight: 400;">
-   Digital Dress Barbie
-  </span>
+  Digital Dress Barbie
  </a>
- <span style="font-weight: 400;">
-  (Barbie’s first wearable!). Jen used the
- </span>
+ (Barbie’s first wearable!). Jen used the
  <a href="https://www.youtube.com/watch?v=yJOUZsTT8GI">
-  <span style="font-weight: 400;">
-   TL866A USB Universal Minipro Programmer
-  </span>
+  TL866A USB Universal Minipro Programmer
  </a>
 </p>
 <p>
  <a href="http://www.somersetrecon.com/blog/2015/11/20/hello-barbie-security-part-1-teardown">
-  <span style="font-weight: 400;">
-   Somerset Recon Barbie RE
-  </span>
+  Somerset Recon Barbie RE
  </a>
 </p>
 <p>
  <a href="http://binvis.io/">
-  <span style="font-weight: 400;">
-   http://binvis.io/
-  </span>
+  http://binvis.io/
  </a>
 </p>
 <p>
- <span style="font-weight: 400;">
-  What is ABI? Get caught up
- </span>
+ What is ABI? Get caught up
  <a href="https://en.wikipedia.org/wiki/Application_binary_interface">
-  <span style="font-weight: 400;">
-   here
-  </span>
+  here
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>
 <p>
- <span style="font-weight: 400;">
-  Getting started with Reverse Engineering? Checkout
- </span>
+ Getting started with Reverse Engineering? Checkout
  <a href="https://challenges.re/">
-  <span style="font-weight: 400;">
-   https://challenges.re/
-  </span>
+  https://challenges.re/
  </a>
 </p>
 <p>
- <span style="font-weight: 400;">
-  Have comments or suggested names for the show? Find us on twitter
- </span>
+ Have comments or suggested names for the show? Find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or hit us up at on the
- </span>
+ ,  or hit us up at on the
  <a href="https://goo.gl/forms/2JSxjsaTCmczwS9J2">
-  <span style="font-weight: 400;">
-   comment form
-  </span>
+  comment form
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>

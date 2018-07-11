@@ -6,110 +6,74 @@ categories: episode
 dir_id: 5689359
 ---
 <p>
- <span style="font-weight: 400;">
-  In this episode, Jen and Alvaro chat with Dmitry Grinberg (
- </span>
+ In this episode, Jen and Alvaro chat with Dmitry Grinberg (
  <a href="http://dmitry.gr">
-  <span style="font-weight: 400;">
-   http://dmitry.gr
-  </span>
+  http://dmitry.gr
  </a>
- <span style="font-weight: 400;">
-  ).
- </span>
+ ).
 </p>
 <p>
- <span style="font-weight: 400;">
-  Some of the things we talked about:
- </span>
+ Some of the things we talked about:
 </p>
 <ul>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Learning to program at 9 years old, then selling TI-83/89 calculator and Palm OS programs.
-  </span>
+ <li>
+  Learning to program at 9 years old, then selling TI-83/89 calculator and Palm OS programs.
  </li>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Reverse engineering PalmOS to write the
-  </span>
+ <li>
+  Reverse engineering PalmOS to write the
   <a href="http://palmsdhc.blogspot.com/">
-   <span style="font-weight: 400;">
-    first SDHC driver for it
-   </span>
+   first SDHC driver for it
   </a>
-  <span style="font-weight: 400;">
-   .
-  </span>
+  .
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://dmitry.gr/index.php?r=05.Projects&amp;proj=25.%20VMU%20Hacking">
-   <span style="font-weight: 400;">
-    Reverse engineering the SEGA VMU
-   </span>
+   Reverse engineering the SEGA VMU
   </a>
-  <span style="font-weight: 400;">
-   and writing a Cortex-M23 emulator for it.
-  </span>
+  and writing a Cortex-M23 emulator for it.
  </li>
  <li style="list-style: none; display: inline;">
   <ul>
-   <li style="font-weight: 400;">
+   <li>
     <a href="http://mc.pp.se/dc/dchid.html">
-     <span style="font-weight: 400;">
-      Maple Bus
-     </span>
+     Maple Bus
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://www.saleae.com">
-     <span style="font-weight: 400;">
-      Saleae Logic 16
-     </span>
+     Saleae Logic 16
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://en.m.wikipedia.org/wiki/Low-voltage_differential_signaling">
-     <span style="font-weight: 400;">
-      LVDS
-     </span>
+     LVDS
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://www.hex-rays.com/products/ida/">
-     <span style="font-weight: 400;">
-      IDA Pro
-     </span>
+     IDA Pro
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://developer.arm.com/products/processors/cortex-m/cortex-m23">
-     <span style="font-weight: 400;">
-      Cortex-M23
-     </span>
+     Cortex-M23
     </a>
    </li>
   </ul>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://dmitry.gr/index.php?r=05.Projects&amp;proj=07.%20Linux%20on%208bit">
-   <span style="font-weight: 400;">
-    Running Linux on an 8-bit Micro
-   </span>
+   Running Linux on an 8-bit Micro
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://dmitry.gr/index.php?r=05.Projects&amp;proj=23.%20PSoC4">
-   <span style="font-weight: 400;">
-    PSoC Reverse Engineering
-   </span>
+   PSoC Reverse Engineering
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://www.arm.com/files/pdf/Serial_Wire_Debug.pdf">
-   <span style="font-weight: 400;">
-    ARM SWD Protocol
-   </span>
+   ARM SWD Protocol
   </a>
  </li>
 </ul>
@@ -124,65 +88,35 @@ dir_id: 5689359
  </a>
 </p>
 <p>
- <span style="font-weight: 400;">
-  We had some slight technical issues with our microphone halfway through the podcast. Luckily the backup was working, but doesn't sound quite as good :(
- </span>
+ We had some slight technical issues with our microphone halfway through the podcast. Luckily the backup was working, but doesn't sound quite as good :(
 </p>
 <p>
- <span style="font-weight: 400;">
-  Have comments or suggested names for the show? Find us on twitter
- </span>
+ Have comments or suggested names for the show? Find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or hit us up at on the
- </span>
+ ,  or hit us up at on the
  <a href="https://goo.gl/forms/2JSxjsaTCmczwS9J2">
-  <span style="font-weight: 400;">
-   comment form
-  </span>
+  comment form
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>
 <p>
- <span style="font-weight: 400;">
-  You can find Jen on twitter
- </span>
+ You can find Jen on twitter
  <a href="https://twitter.com/rebelbotjen">
-  <span style="font-weight: 400;">
-   @rebelbotjen
-  </span>
+  @rebelbotjen
  </a>
- <span style="font-weight: 400;">
-  and
- </span>
+ and
  <a href="http://rebelbot.com">
-  <span style="font-weight: 400;">
-   http://rebelbot.com
-  </span>
+  http://rebelbot.com
  </a>
- <span style="font-weight: 400;">
-  as well as Alvaro on twitter
- </span>
+ as well as Alvaro on twitter
  <a href="https://twitter.com/alvaroprieto">
-  <span style="font-weight: 400;">
-   @alvaroprieto
-  </span>
+  @alvaroprieto
  </a>
- <span style="font-weight: 400;">
-  and
- </span>
+ and
  <a href="http://alvarop.com">
-  <span style="font-weight: 400;">
-   http://alvarop.com
-  </span>
+  http://alvarop.com
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>

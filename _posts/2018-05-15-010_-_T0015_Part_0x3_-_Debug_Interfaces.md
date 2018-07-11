@@ -6,137 +6,85 @@ categories: episode
 dir_id: 6593818
 ---
 <p>
- <span style="font-weight: 400;">
-  This week we talk about the nebulous world of debugging interfaces, some of their history, and how they can be used in reverse engineering. We cover the basics of what are
- </span>
+ This week we talk about the nebulous world of debugging interfaces, some of their history, and how they can be used in reverse engineering. We cover the basics of what are
  <a href="https://www.xjtag.com/about-jtag/what-is-jtag/">
-  <span style="font-weight: 400;">
-   JTAG
-  </span>
+  JTAG
  </a>
- <span style="font-weight: 400;">
-  and SWD ( both
- </span>
+ and SWD ( both
  <a href="http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0314h/Chdiaihc.html">
-  <span style="font-weight: 400;">
-   ARM Debug Access Port (DAP)
-  </span>
+  ARM Debug Access Port (DAP)
  </a>
- <span style="font-weight: 400;">
-  and
- </span>
+ and
  <a href="https://static.docs.arm.com/ihi0031/d/debug_interface_v5_2_architecture_specification_IHI0031D.pdf">
-  <span style="font-weight: 400;">
-   ARM® Debug Interface Architecture Specification
-  </span>
+  ARM® Debug Interface Architecture Specification
  </a>
- <span style="font-weight: 400;">
-  ) and can they both be used to debug a MIPS processor (the answer is NO!).
- </span>
+ ) and can they both be used to debug a MIPS processor (the answer is NO!).
 </p>
 <p>
- <span style="font-weight: 400;">
-  We list a few other standards but also some key vendors and projects to get you debugging and controlling your next system:
- </span>
+ We list a few other standards but also some key vendors and projects to get you debugging and controlling your next system:
 </p>
 <div style="margin-left: 2em;">
  <ul>
-  <li style="font-weight: 400;">
+  <li>
    <a href="https://www.segger.com/">
-    <span style="font-weight: 400;">
-     Segger
-    </span>
+    Segger
    </a>
-   <span style="font-weight: 400;">
-    J-Link/J-Trace (generally the most flexible)
-   </span>
+   J-Link/J-Trace (generally the most flexible)
   </li>
-  <li style="font-weight: 400;">
+  <li>
    <a href="https://1bitsquared.com/products/black-magic-probe">
-    <span style="font-weight: 400;">
-     BlackMagicProbe
-    </span>
+    BlackMagicProbe
    </a>
   </li>
-  <li style="font-weight: 400;">
+  <li>
    <a href="http://www.st.com/en/development-tools/st-link-v2.html">
-    <span style="font-weight: 400;">
-     ST-Link
-    </span>
+    ST-Link
    </a>
   </li>
-  <li style="font-weight: 400;">
+  <li>
    <a href="http://dangerousprototypes.com/docs/Bus_Blaster">
-    <span style="font-weight: 400;">
-     BusBlaster
-    </span>
+    BusBlaster
    </a>
   </li>
-  <li style="font-weight: 400;">
+  <li>
    <a href="http://www.grandideastudio.com/jtagulator/">
-    <span style="font-weight: 400;">
-     JTAGulator
-    </span>
+    JTAGulator
    </a>
   </li>
-  <li style="font-weight: 400;">
-   <span style="font-weight: 400;">
-    Cypress
-   </span>
+  <li>
+   Cypress
    <a href="http://www.cypress.com/documentation/development-kitsboards/cy8ckit-002-psoc-miniprog3-program-and-debug-kit">
-    <span style="font-weight: 400;">
-     Miniprog3
-    </span>
+    Miniprog3
    </a>
   </li>
-  <li style="font-weight: 400;">
-   <span style="font-weight: 400;">
-    Microchips supports both
-   </span>
+  <li>
+   Microchips supports both
    <a href="http://www.microchip.com/developmenttools/Listing.aspx?CatID=cb147543-e74e-4150-8d53-f2ceafb39e0b&amp;LeftNavId=cb147543-e74e-4150-8d53-f2ceafb39e0b">
-    <span style="font-weight: 400;">
-     AVR
-    </span>
+    AVR
    </a>
-   <span style="font-weight: 400;">
-    and
-   </span>
+   and
    <a href="http://www.microchip.com/developmenttools/listing.aspx?catid=a063fb83-a427-45b7-afa0-71cc9e8f8c44&amp;leftnavid=a063fb83-a427-45b7-afa0-71cc9e8f8c44">
-    <span style="font-weight: 400;">
-     Microchip
-    </span>
+    Microchip
    </a>
-   <span style="font-weight: 400;">
-    parts for debug.
-   </span>
+   parts for debug.
   </li>
  </ul>
 </div>
 <p>
- <span style="font-weight: 400;">
-  Since a few of these are from the OSHW/OSSW world, we briefly discuss the impact of this work on driving down costs and opening up the field to more people.
- </span>
+ Since a few of these are from the OSHW/OSSW world, we briefly discuss the impact of this work on driving down costs and opening up the field to more people.
 </p>
 <p>
- <span style="font-weight: 400;">
-  As always, we might have missed your favorite tool or you had questions and comments about our list, find us on twitter
- </span>
+ As always, we might have missed your favorite tool or you had questions and comments about our list, find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or email us at
- </span>
+ ,  or email us at
  <a href="mailto:show@unnamedre.com">
   <strong>
    show@unnamedre.com
   </strong>
  </a>
- <span style="font-weight: 400;">
-  and tell us.
- </span>
+ and tell us.
 </p>
 <p>
  <strong>

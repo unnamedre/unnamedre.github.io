@@ -6,162 +6,108 @@ categories: episode
 dir_id: 6481402
 ---
 <p>
- <span style="font-weight: 400;">
-  In this episode, we talked about measuring things (Well mostly digital and some analog things)!
- </span>
+ In this episode, we talked about measuring things (Well mostly digital and some analog things)!
 </p>
 <ul>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://en.wikipedia.org/wiki/Multimeter">
-   <span style="font-weight: 400;">
-    Digital Multimeter
-   </span>
+   Digital Multimeter
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://en.wikipedia.org/wiki/Oscilloscope">
-   <span style="font-weight: 400;">
-    Oscilloscope
-   </span>
+   Oscilloscope
   </a>
  </li>
  <li style="list-style: none; display: inline;">
   <ul>
-   <li style="font-weight: 400;">
-    <span style="font-weight: 400;">
-     Passive vs
-    </span>
+   <li>
+    Passive vs
     <a href="https://www.eetimes.com/document.asp?doc_id=1279659">
-     <span style="font-weight: 400;">
-      active
-     </span>
+     active
     </a>
-    <span style="font-weight: 400;">
-     probes
-    </span>
+    probes
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://www.testandmeasurementtips.com/measuring-current-with-oscilloscope-voltage-probe/">
-     <span style="font-weight: 400;">
-      Current probes
-     </span>
+     Current probes
     </a>
    </li>
   </ul>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://en.wikipedia.org/wiki/Logic_analyzer">
-   <span style="font-weight: 400;">
-    Logic Analyzers
-   </span>
+   Logic Analyzers
   </a>
  </li>
  <li style="list-style: none; display: inline;">
   <ul>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://www.saleae.com/">
-     <span style="font-weight: 400;">
-      Saleae Logic
-     </span>
+     Saleae Logic
     </a>
    </li>
    <li style="list-style: none; display: inline;">
     <ol>
-     <li style="font-weight: 400;">
-      <span style="font-weight: 400;">
-       Mentioned on the
-      </span>
+     <li>
+      Mentioned on the
       <a href="http://embedded.fm">
-       <span style="font-weight: 400;">
-        Embedded.fm
-       </span>
+       Embedded.fm
       </a>
-      <span style="font-weight: 400;">
-       podcast
-      </span>
+      podcast
       <a href="http://www.logicalelegance.com/journey/2013/05/tools-sometimes-define-the-problem/">
-       <span style="font-weight: 400;">
-        Episode 2
-       </span>
+       Episode 2
       </a>
      </li>
-     <li style="font-weight: 400;">
-      <span style="font-weight: 400;">
-       Now with
-      </span>
+     <li>
+      Now with
       <a href="https://blog.saleae.com/real-time-view-early-version-out-today/">
-       <span style="font-weight: 400;">
-        Real Time View
-       </span>
+       Real Time View
       </a>
-      <span style="font-weight: 400;">
-       !
-      </span>
+      !
      </li>
     </ol>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://analogdiscovery.com/">
-     <span style="font-weight: 400;">
-      Analog Discovery 2
-     </span>
+     Analog Discovery 2
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="https://sigrok.org/">
-     <span style="font-weight: 400;">
-      Sigrok
-     </span>
+     Sigrok
     </a>
-    <span style="font-weight: 400;">
-     (
-    </span>
+    (
     <a href="https://sigrok.org/wiki/Supported_hardware#Logic_analyzers">
-     <span style="font-weight: 400;">
-      Supported Logic Analyzers
-     </span>
+     Supported Logic Analyzers
     </a>
-    <span style="font-weight: 400;">
-     )
-    </span>
+    )
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="http://bitscope.com/">
-     <span style="font-weight: 400;">
-      Bitscope
-     </span>
+     Bitscope
     </a>
    </li>
-   <li style="font-weight: 400;">
+   <li>
     <a href="http://dangerousprototypes.com/docs/Bus_Pirate">
-     <span style="font-weight: 400;">
-      BusPirate
-     </span>
+     BusPirate
     </a>
    </li>
   </ul>
  </li>
 </ul>
 <p>
- <span style="font-weight: 400;">
-  Perhaps we missed your favorite tool or you had questions and comments about our list, find us on twitter
- </span>
+ Perhaps we missed your favorite tool or you had questions and comments about our list, find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or email us at
- </span>
+ ,  or email us at
  <a href="mailto:show@unnamedre.com">
   <strong>
    show@unnamedre.com
   </strong>
  </a>
- <span style="font-weight: 400;">
-  and tell us.
- </span>
+ and tell us.
 </p>
 <p>
  <strong>

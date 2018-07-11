@@ -6,264 +6,144 @@ categories: episode
 dir_id: 5913284
 ---
 <p>
- <span style="font-weight: 400;">
-  This week we were joined by the incredible IC reverse engineer,
- </span>
+ This week we were joined by the incredible IC reverse engineer,
  <a href="http://www.righto.com/">
-  <span style="font-weight: 400;">
-   Ken Shirriff
-  </span>
+  Ken Shirriff
  </a>
- <span style="font-weight: 400;">
-  . You may know him from his Hack A Day Super Conference
- </span>
+ . You may know him from his Hack A Day Super Conference
  <a href="https://www.youtube.com/watch?v=aHx-XUA6f9g">
-  <span style="font-weight: 400;">
-   talk
-  </span>
+  talk
  </a>
- <span style="font-weight: 400;">
-  in 2016 or his
- </span>
+ in 2016 or his
  <a href="http://www.righto.com/">
-  <span style="font-weight: 400;">
-   blog
-  </span>
+  blog
  </a>
- <span style="font-weight: 400;">
-  ’s many posts (
- </span>
+ ’s many posts (
  <a href="http://www.righto.com/2017/08/inside-fake-ram-chip-i-found-something.html">
-  <span style="font-weight: 400;">
-   Counterfeit chips
-  </span>
+  Counterfeit chips
  </a>
- <span style="font-weight: 400;">
-  ,
- </span>
+ ,
  <a href="http://www.righto.com/2016/02/reverse-engineering-arm1-processors.html">
-  <span style="font-weight: 400;">
-   ARM 1 chip
-  </span>
+  ARM 1 chip
  </a>
- <span style="font-weight: 400;">
-  , and
- </span>
+ , and
  <a href="http://files.righto.com/calculator/sinclair_scientific_simulator.html">
-  <span style="font-weight: 400;">
-   Sinclair Calculator
-  </span>
+  Sinclair Calculator
  </a>
- <span style="font-weight: 400;">
-  ). We covered quite a number of restorations (
- </span>
+ ). We covered quite a number of restorations (
  <a href="http://visual6502.org/">
-  <span style="font-weight: 400;">
-   Visual6502 project
-  </span>
+  Visual6502 project
  </a>
- <span style="font-weight: 400;">
-  ,
- </span>
+ ,
  <a href="https://en.wikipedia.org/wiki/Intel_8008">
-  <span style="font-weight: 400;">
-   8008 microprocessor
-  </span>
+  8008 microprocessor
  </a>
- <span style="font-weight: 400;">
-  - Ken’s restoration
- </span>
+ - Ken’s restoration
  <a href="http://www.righto.com/2017/02/reverse-engineering-surprisingly.html">
-  <span style="font-weight: 400;">
-   details
-  </span>
+  details
  </a>
- <span style="font-weight: 400;">
-  )
- </span>
+ )
 </p>
 <p>
- <span style="font-weight: 400;">
-  He is currently working the
- </span>
+ He is currently working the
  <a href="http://www.righto.com/2016/06/y-combinators-xerox-alto-restoring.html">
-  <span style="font-weight: 400;">
-   Xerox Alto Restoration
-  </span>
+  Xerox Alto Restoration
  </a>
- <span style="font-weight: 400;">
-  and we talked not only about the hardware but the microcode and software restoration. Software languages we touched on were the C predecessor,
- </span>
+ and we talked not only about the hardware but the microcode and software restoration. Software languages we touched on were the C predecessor,
  <a href="https://en.wikipedia.org/wiki/BCPL">
-  <span style="font-weight: 400;">
-   BCPL
-  </span>
+  BCPL
  </a>
- <span style="font-weight: 400;">
-  and object oriented language
- </span>
+ and object oriented language
  <a href="https://en.wikipedia.org/wiki/Smalltalk">
-  <span style="font-weight: 400;">
-   Smalltalk
-  </span>
+  Smalltalk
  </a>
- <span style="font-weight: 400;">
-  . There are number of resources out there restoring and archiving computing history:
- </span>
+ . There are number of resources out there restoring and archiving computing history:
 </p>
 <ul>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Computer History Museum  has some of the
-  </span>
+ <li>
+  Computer History Museum  has some of the
   <a href="http://www.computerhistory.org/revolution/digital-logic/12/287">
-   <span style="font-weight: 400;">
-    mylar chip mask
-   </span>
+   mylar chip mask
   </a>
-  <span style="font-weight: 400;">
-   from the old process we discussed.
-  </span>
+  from the old process we discussed.
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://www.livingcomputers.org/">
-   <span style="font-weight: 400;">
-    Living Computer Museum
-   </span>
+   Living Computer Museum
   </a>
-  <span style="font-weight: 400;">
-   in Seattle has also  collaborated and done some impressive work.
-  </span>
+  in Seattle has also  collaborated and done some impressive work.
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://www.siliconpr0n.org/">
-   <span style="font-weight: 400;">
-    Siliconpr0n
-   </span>
+   Siliconpr0n
   </a>
-  <span style="font-weight: 400;">
-   is John McMaster’s site for IC reverse engineering and more.
-  </span>
+  is John McMaster’s site for IC reverse engineering and more.
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="http://www.bitsavers.org">
-   <span style="font-weight: 400;">
-    http://www.bitsavers.org
-   </span>
+   http://www.bitsavers.org
   </a>
-  <span style="font-weight: 400;">
-   - Living archive for schematics, software, etc… on any number of electronics items.
-  </span>
+  - Living archive for schematics, software, etc… on any number of electronics items.
  </li>
 </ul>
 <p>
- <span style="font-weight: 400;">
-  Resources for getting started with analog circuits at transistor level:
- </span>
+ Resources for getting started with analog circuits at transistor level:
 </p>
 <ul>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   “
-  </span>
+ <li>
+  “
   <a href="https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0199339139/ref=sr_1_1?ie=UTF8&amp;qid=1509835709&amp;sr=8-1&amp;keywords=microelectronics+sedra+smith">
-   <span style="font-weight: 400;">
-    Microelectronics Circuits
-   </span>
+   Microelectronics Circuits
   </a>
-  <span style="font-weight: 400;">
-   ”
-  </span>
+  ”
   <a href="https://www.scribd.com/doc/124330282/Chapter-1-of-microelectronic-circuit-and-devices-by-Sedra-and-Smith">
-   <span style="font-weight: 400;">
-    Sedra and Smith
-   </span>
+   Sedra and Smith
   </a>
-  <span style="font-weight: 400;">
-   (covers all your favorite circuits like current mirroring)
-  </span>
+  (covers all your favorite circuits like current mirroring)
  </li>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Start with die photos… analyzing is much smaller and easier
-  </span>
+ <li>
+  Start with die photos… analyzing is much smaller and easier
  </li>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   When finally working hands on cheap
-  </span>
+ <li>
+  When finally working hands on cheap
   <a href="https://www.amazon.com/Armour-Etch-15-0200-Cream-10-Ounce/dp/B001BE3UM4">
-   <span style="font-weight: 400;">
-    acids
-   </span>
+   acids
   </a>
-  <span style="font-weight: 400;">
-   for consumer hobbyists (aka glass etchers)  also work on ICs to remove layers
-  </span>
+  for consumer hobbyists (aka glass etchers)  also work on ICs to remove layers
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://en.wikipedia.org/wiki/LTspice">
-   <span style="font-weight: 400;">
-    LTSpice
-   </span>
+   LTSpice
   </a>
-  <span style="font-weight: 400;">
-   (circuit simulator and product that gives Jen college-aged anxiety)
-  </span>
+  (circuit simulator and product that gives Jen college-aged anxiety)
  </li>
 </ul>
 <p>
- <span style="font-weight: 400;">
-  HackaDay
- </span>
+ HackaDay
  <a href="https://www.eventbrite.com/e/hackaday-superconference-2017-tickets-35735832838?aff=hadcom1020">
-  <span style="font-weight: 400;">
-   Superconference
-  </span>
+  Superconference
  </a>
- <span style="font-weight: 400;">
-  coming up. Everyone on the show (
- </span>
+ coming up. Everyone on the show (
  <a href="https://www.youtube.com/watch?v=qSHjzEO5CiE&amp;index=15&amp;list=PL_tws4AXg7asvl-x6VCKqxJsAuFnEWq-8">
-  <span style="font-weight: 400;">
-   here
-  </span>
+  here
  </a>
- <span style="font-weight: 400;">
-  and
- </span>
+ and
  <a href="https://www.youtube.com/watch?v=aHx-XUA6f9g">
-  <span style="font-weight: 400;">
-   here
-  </span>
+  here
  </a>
- <span style="font-weight: 400;">
-  )  have spoke at this conference. Ken and Alvaro will be there!
- </span>
+ )  have spoke at this conference. Ken and Alvaro will be there!
 </p>
 <p>
- <span style="font-weight: 400;">
-  Have comments or suggested names for the show? Find us on twitter
- </span>
+ Have comments or suggested names for the show? Find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or hit us up at on the
- </span>
+ ,  or hit us up at on the
  <a href="https://goo.gl/forms/2JSxjsaTCmczwS9J2">
-  <span style="font-weight: 400;">
-   comment form
-  </span>
+  comment form
  </a>
- <span style="font-weight: 400;">
-  . If you still cannot find us, goto
- </span>
+ . If you still cannot find us, goto
  <a href="http://unnamedre.com">
-  <span style="font-weight: 400;">
-   http://unnamedre.com
-  </span>
+  http://unnamedre.com
  </a>
 </p>

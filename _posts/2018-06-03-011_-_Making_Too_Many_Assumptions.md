@@ -6,166 +6,98 @@ categories: episode
 dir_id: 6663454
 ---
 <p>
- <span style="font-weight: 400;">
-  This week
- </span>
+ This week
  <a href="http://bluetooth.expert/">
-  <span style="font-weight: 400;">
-   Mike Ryan
-  </span>
+  Mike Ryan
  </a>
- <span style="font-weight: 400;">
-  (
-  <a href="https://twitter.com/mpeg4codec">
-   @mpeg4codec
-  </a>
-  ) joins us to talk about how he went from hacking games for stronger characters (we don’t reveal which ones; you’ll have to listen) to revealing big weaknesses in Bluetooth products.
- </span>
+ (
+ <a href="https://twitter.com/mpeg4codec">
+  @mpeg4codec
+ </a>
+ ) joins us to talk about how he went from hacking games for stronger characters (we don’t reveal which ones; you’ll have to listen) to revealing big weaknesses in Bluetooth products.
 </p>
 <p>
- <span style="font-weight: 400;">
-  Mike gives us the rundown on how he ended up working on
- </span>
+ Mike gives us the rundown on how he ended up working on
  <a href="https://github.com/greatscottgadgets/ubertooth/">
-  <span style="font-weight: 400;">
-   UbertOOth
-  </span>
+  UbertOOth
  </a>
- <span style="font-weight: 400;">
-  ,  using
- </span>
+ ,  using
  <a href="https://www.wireshark.org/">
-  <span style="font-weight: 400;">
-   wireshark
-  </span>
+  wireshark
  </a>
- <span style="font-weight: 400;">
-  , and how many UbertEEth you should use.  We discuss some of the biggest mistakes developers make in their Bluetooth and BLE products. He shares some examples of this through his prior
- </span>
+ , and how many UbertEEth you should use.  We discuss some of the biggest mistakes developers make in their Bluetooth and BLE products. He shares some examples of this through his prior
  <a href="https://github.com/mikeryan">
-  <span style="font-weight: 400;">
-   work
-  </span>
+  work
  </a>
- <span style="font-weight: 400;">
-  including credit cards and skateboards. We also learn about CVEs including the one Mike has for the
- </span>
+ including credit cards and skateboards. We also learn about CVEs including the one Mike has for the
  <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2247">
-  <span style="font-weight: 400;">
-   Skateboard
-  </span>
+  Skateboard
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>
 <p>
- <span style="font-weight: 400;">
-  If after this, you are worried that your next IoT product needs a security review or at least getting started with Ubertooth, you can go to the
- </span>
+ If after this, you are worried that your next IoT product needs a security review or at least getting started with Ubertooth, you can go to the
  <a href="https://github.com/greatscottgadgets/ubertooth/">
-  <span style="font-weight: 400;">
-   Ubertooth
-  </span>
+  Ubertooth
  </a>
- <span style="font-weight: 400;">
-  ,
- </span>
+ ,
  <a href="https://github.com/mikeryan">
-  <span style="font-weight: 400;">
-   CrackLE
-  </span>
+  CrackLE
  </a>
- <span style="font-weight: 400;">
-  and
- </span>
+ and
  <a href="https://www.wireshark.org/">
-  <span style="font-weight: 400;">
-   wireshark
-  </span>
+  wireshark
  </a>
- <span style="font-weight: 400;">
-  sites. If you want some serious hands on, you can contact Mike
- </span>
+ sites. If you want some serious hands on, you can contact Mike
  <a href="https://ice9.us/">
-  <span style="font-weight: 400;">
-   here
-  </span>
+  here
  </a>
- <span style="font-weight: 400;">
-  .
- </span>
+ .
 </p>
 <p>
- <span style="font-weight: 400;">
-  A few more tools came up to add to your list:
- </span>
+ A few more tools came up to add to your list:
 </p>
 <ul>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://ibotpeaches.github.io/Apktool/">
-   <span style="font-weight: 400;">
-    Apk tool
-   </span>
+   Apk tool
   </a>
  </li>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Hci tool (
-  </span>
+ <li>
+  Hci tool (
   <a href="https://linux.die.net/man/1/hcitool">
-   <span style="font-weight: 400;">
-    1
-   </span>
+   1
   </a>
-  <span style="font-weight: 400;">
-   ) (
-  </span>
+  ) (
   <a href="https://github.com/pcborenstein/bluezDoc/wiki/hcitool-and-gatttool-example">
-   <span style="font-weight: 400;">
-    tutorial
-   </span>
+   tutorial
   </a>
-  <span style="font-weight: 400;">
-   )
-  </span>
+  )
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://www.perl.org/">
-   <span style="font-weight: 400;">
-    Perl
-   </span>
+   Perl
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/jarsigner.html">
-   <span style="font-weight: 400;">
-    Jar signer
-   </span>
+   Jar signer
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://learn.adafruit.com/reverse-engineering-a-bluetooth-low-energy-light-bulb/control-with-bluez">
-   <span style="font-weight: 400;">
-    Gattool
-   </span>
+   Gattool
   </a>
  </li>
- <li style="font-weight: 400;">
-  <span style="font-weight: 400;">
-   Smali -
-  </span>
+ <li>
+  Smali -
   <a href="https://github.com/JesusFreke/smali">
-   <span style="font-weight: 400;">
-    https://github.com/JesusFreke/smali
-   </span>
+   https://github.com/JesusFreke/smali
   </a>
  </li>
- <li style="font-weight: 400;">
+ <li>
   <a href="https://github.com/miek/inspectrum">
-   <span style="font-weight: 400;">
-    Inspectrum
-   </span>
+   Inspectrum
   </a>
  </li>
 </ul>
@@ -173,17 +105,11 @@ dir_id: 6663454
  NOTE: Sorry about the rough audio, we had some technical difficulties that we resolved about 15 min in.
 </p>
 <p>
- <span style="font-weight: 400;">
-  Have comments or suggestions for us? Find us on twitter
- </span>
+ Have comments or suggestions for us? Find us on twitter
  <a href="https://twitter.com/unnamed_show">
-  <span style="font-weight: 400;">
-   @unnamed_show
-  </span>
+  @unnamed_show
  </a>
- <span style="font-weight: 400;">
-  ,  or email us at
- </span>
+ ,  or email us at
  <a href="mailto:show@unnamedre.com">
   <strong>
    show@unnamedre.com
