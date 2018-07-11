@@ -84,7 +84,7 @@ dir_id: 5689359
 </p>
 <p>
  <a href="http://imgur.com/a/qtSwx">
-  <img alt="" height="768" src="images/IMG_20170803_214847_small.jpg" width="1024"/>
+  <img alt="" height="768" src="/images/IMG_20170803_214847_small.jpg" width="1024"/>
  </a>
 </p>
 <p>
