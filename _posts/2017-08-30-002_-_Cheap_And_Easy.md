@@ -83,9 +83,7 @@ dir_id: 5689359
  </a>
 </p>
 <p>
- <a href="http://imgur.com/a/qtSwx">
-  <img alt="" height="768" src="/images/IMG_20170803_214847_small.jpg" width="1024"/>
- </a>
+ {% include image.html img="/images/IMG_20170803_214847_small.jpg" url="http://imgur.com/a/qtSwx" %}
 </p>
 <p>
  We had some slight technical issues with our microphone halfway through the podcast. Luckily the backup was working, but doesn't sound quite as good :(
