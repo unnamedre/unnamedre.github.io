@@ -4,6 +4,7 @@ title: "003 - Barbies and Keyboards"
 date: 2017-09-17 22:25:17
 categories: episode
 dir_id: 5746216
+permalink: episode/3
 ---
 <p>
  In this episode, Jen and Alvaro talk about some current events and some basic reverse engineering projects they’ve worked on.

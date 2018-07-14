@@ -4,6 +4,7 @@ title: "010 - T0015! Part 0x3 - Debug Interfaces"
 date: 2018-05-15 02:27:43
 categories: episode
 dir_id: 6593818
+permalink: episode/10
 ---
 <p>
  This week we talk about the nebulous world of debugging interfaces, some of their history, and how they can be used in reverse engineering. We cover the basics of what are

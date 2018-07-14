@@ -4,6 +4,7 @@ title: "006 - Marketing Via Stickers"
 date: 2017-12-06 03:39:47
 categories: episode
 dir_id: 6004254
+permalink: episode/6
 ---
 <p>
  A quick year end update and feedback show from just the hosts.

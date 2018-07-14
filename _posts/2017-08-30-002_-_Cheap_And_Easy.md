@@ -4,6 +4,7 @@ title: "002 - Cheap And Easy"
 date: 2017-08-30 03:45:16
 categories: episode
 dir_id: 5689359
+permalink: episode/2
 ---
 <p>
  In this episode, Jen and Alvaro chat with Dmitry Grinberg (

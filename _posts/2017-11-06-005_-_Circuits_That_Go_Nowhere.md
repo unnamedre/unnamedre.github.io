@@ -4,6 +4,7 @@ title: "005 - Circuits That Go Nowhere"
 date: 2017-11-06 00:53:38
 categories: episode
 dir_id: 5913284
+permalink: episode/5
 ---
 <p>
  This week we were joined by the incredible IC reverse engineer,
