@@ -1,0 +1,27 @@
+/*
+ * Extra CSS stuff for unnamedre
+ */
+
+/* For responsive images */
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+/* SVG Links */
+.svg-links ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.svg-links ul {
+    margin: 0;
+    padding: 0;
+}
+
+.svg-links {
+    margin: 0 auto;
+    margin-top: 0.5em;
+    text-align: center;
+}
