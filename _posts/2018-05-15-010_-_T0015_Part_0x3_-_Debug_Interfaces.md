@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "010 - T0015! Part 0x3 - Debug Interfaces"
+subtitle: "Reverse Engineering Tools - Debugging Hardware"
 date: 2018-05-15 02:27:43
 categories: episode
 dir_id: 6593818

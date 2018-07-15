@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "006 - Marketing Via Stickers"
+subtitle: "End of the year update"
 date: 2017-12-06 03:39:47
 categories: episode
 dir_id: 6004254

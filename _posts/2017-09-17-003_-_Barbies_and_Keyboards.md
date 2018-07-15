@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "003 - Barbies and Keyboards"
+subtitle: "Jen and Alvaro's Projects"
 date: 2017-09-17 22:25:17
 categories: episode
 dir_id: 5746216

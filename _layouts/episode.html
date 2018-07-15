@@ -4,12 +4,13 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <h3 class="episode-subtitle">{{ page.subtitle }}</h3>
   <span class="post-date">{{ page.date | date_to_string }}</span>
 
   {% if page.dir_id != null %}
   <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ page.dir_id }}/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   {% endif %}
-  
+
   <hr/>
 
   {{ content }}
