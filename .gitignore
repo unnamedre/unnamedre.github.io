@@ -41,3 +41,7 @@ validation-report.json
 node_modules
 
 .sass-cache/
+
+# Python stuff
+*.pyc
+*.lock
