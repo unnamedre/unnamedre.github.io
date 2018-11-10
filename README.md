@@ -5,7 +5,7 @@
 ### Installation (run once)
 From root directory:
 
-`pipenv install -three`
+`pipenv install --three`
 
 ### Generate site
 1. Add episode and publish on Libsyn
