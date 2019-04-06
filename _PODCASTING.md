@@ -22,10 +22,15 @@
 1. Once the tracks are sync-ed, re-enable sync-lock
 
 ### Edit all the things!
-1. TODO: AGC
-1. TODO: cut unnecessary stuff
-1. TOOD: rescue AGC victims
-1. TODO: add intro/outro
+1. Select each track and run the Limiter effect with -3dB "Limit to" and 10ms Hold. This will get rid of the crazy peaks
+1. Select a a few seconds of "silence" of each track to get a noise profile (Use Noise Reduction effect and select "Get Noise Profile") then select the entire track and run Noise Reduction again (I used the default settings 12 dB, 6 and 3)
+1. Select each track and run the AGC effect. I normally use AGC strength 60 %. The squelch threshold will depend on how quiet/loud the track is. If the squelch is too high, some of the voice will get attenuated away. I usually have something around -25 dB and maximum attenuation of -30 dB (This way most of the quiet background noises get attenuated away.) 
+1. At this point, I start listening to the entire episode. Whenever there's stuff that shouldn't be there, select and delete the section. If there's pops, clicks, and other unwanted noise, select the part you want to remove and press Ctrl+L to silence it.
+1. If the AGC squelch threshold was too high, some speech might have gotten significantly attenuated. You can use the orignial, unmodified track to 'rescue' the audio. A simple copy paste + AGC again with lower squelch threshold for that particular area will do it.
+1. Select all the tracks and re-run the limiter again with -3dB. The AGC might have amplified some parts a bit much.
+
+### Add Intro/Outro
+I usually put the cursor at time 0 and use Generate->Silence to get 30 seconds of silence at the beginning of the tracks. I then import the intro and outro wav files and place them accordingly. You'll need to disable sync-lock tracks again. 
 
 ### Exporting MP3
 1. `File->Export->Export as Mp3`
