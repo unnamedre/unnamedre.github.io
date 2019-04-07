@@ -74,7 +74,7 @@ Make sure to add the shownotes to the google doc. These will be copy/pasted to t
 1. Add it to \_sitegen/directory\_ids.csv with the episode number in front.
 
 ### Generate new page
-1. Run `pipenv run python .\_sitegen/generate.py`
+1. Run `pipenv run python ._sitegen/generate.py`
 1. Commit the changes and push
 
 ## Twitter/etc
