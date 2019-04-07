@@ -35,7 +35,7 @@ I usually put the cursor at time 0 and use Generate->Silence to get 30 seconds o
 ### Exporting MP3
 1. `File->Export->Export as Mp3`
 1. Use the following settings:
-    - **Filename:** episode_xx.mp3 (Where xx is episode number with no leading zero)
+    - **Filename:** episode\_xx.mp3 (Where xx is episode number with no leading zero)
     - **Bit Rate Mode:** Constant
     - **Quality:** 96kpbs
     - **Channel Mode"** Force Export to mono
@@ -60,7 +60,7 @@ Make sure to add the shownotes to the google doc. These will be copy/pasted to t
 1. Got to `Content->Add New Episode`
 1. In the **1. Media** tab, click on **Add Media File** and upload the mp3.
 1. In the **2. Details** tab, add the title (same as the mp3 title).
-    - Also add a subtitle like "interview with ____" or a few word (< 10) summary of the episode.
+    - Also add a subtitle like "interview with \_\_\_\_" or a few word (< 10) summary of the episode.
 1. Paste in the shownotes from the google doc in the **Description** text box.
     - **DONT FORGET the comments/suggestions and music attribution bits.** They should already be on the google doc
 1. Save as draft or publish as necessary
@@ -71,11 +71,10 @@ Make sure to add the shownotes to the google doc. These will be copy/pasted to t
 1. In libsyn, click on `Content->Previously Published`.
 1. Click on the **Link/Embed** link for the episode
 1. Copy the last number in the "Libsyn Directory URL"
-1. Add it to directory_ids.csv with the episode number in front.
+1. Add it to \_sitegen/directory\_ids.csv with the episode number in front.
 
 ### Generate new page
-1. Run `pipenv run ./rss.py`
-1. cd into the github.io site
+1. Run `pipenv run python .\_sitegen/generate.py`
 1. Commit the changes and push
 
 ## Twitter/etc
