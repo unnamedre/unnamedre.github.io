@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "020 - Hardwear.io CTF Interviews"
-subtitle: "Interviews with Hardware.io CTF contestants and organizers"
+subtitle: "Interviews with Hardwear.io CTF contestants and organizers"
 date: 2019-06-16 13:23:31
 categories: episode
 dir_id: 10164797
