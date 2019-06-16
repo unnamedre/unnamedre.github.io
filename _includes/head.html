@@ -13,6 +13,17 @@
     {% endif %}
   </title>
 
+  <!-- Twitter -->
+{% if page.title %}
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@unnamed_show" />
+  <meta name="twitter:creator" content="@unnamed_show" />
+  <meta property="og:url" content="https://unnamedre.com/{{ page.permalink }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.subtitle }}" />
+  <meta property="og:image" content="https://unnamedre.com/images/logo400x400.png" />
+{% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
