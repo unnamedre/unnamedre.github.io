@@ -12,7 +12,10 @@ permalink: episode/23
  <a href="https://twitter.com/rfidiot">
   Major Malfunction
  </a>
- at the Hardwear.io conference.
+ at the 
+ <a href="https://hardwear.io">
+  Hardwear.io
+ </a> conference.
 </p>
 <p>
  Alvaro first saw his
