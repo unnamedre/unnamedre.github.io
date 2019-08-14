@@ -11,7 +11,6 @@
 ### Setup
 1. Create new audacity project
 1. Drag all the audio files into audacity
-    - **Select the option "Read the files directly from the original" during import**
 1. Import the tracks twice (All effects are applied to one, the other is there in case we screw up)
 
 ### Sync Audio
