@@ -4,7 +4,7 @@ title: "028 - Everyone Has a Bag of Tricks"
 subtitle: "An interview with Johnny Xmas"
 date: 2019-09-15 18:15:15
 categories: episode
-dir_id: None
+dir_id: 11257283
 permalink: episode/28
 ---
 <p>
