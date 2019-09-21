@@ -93,6 +93,12 @@ permalink: episode/26
   </a>
  </li>
  <li>
+  [New Listener provided]
+  <a href="https://creztor.blogspot.com">
+   C64 Leak Blog from 2004
+  </a>
+ </li>
+ <li>
   <a href="http://siliconpr0n.org/">
    Siliconpr0n
   </a>
