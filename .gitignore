@@ -45,3 +45,4 @@ node_modules
 # Python stuff
 *.pyc
 *.lock
+venv/
