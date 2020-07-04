@@ -13,9 +13,8 @@ permalink: episode/35
 <p>
  So please take a moment to take our 5 minute
  <a href="https://forms.gle/F3LYfaoCDdCqQSZY9">
-  survey
- </a>
- . If you opt to give us your email address you will be entered to for a chance to win a
+  survey.
+ </a> If you opt to give us your email address you will be entered for a chance to win a
  <a href="https://analogdiscovery.com/">
   Analog Discovery 2
  </a>
