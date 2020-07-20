@@ -50,6 +50,13 @@ permalink: episode/36
  .
 </p>
 <p>
+ Our
+ <a href="https://forms.gle/F3LYfaoCDdCqQSZY9">
+  listener survey
+ </a>
+ is still open. If you haven't already, please check it out!
+</p>
+<p>
  Here are links to some of the topics covered in the episode:
 </p>
 <ul>
