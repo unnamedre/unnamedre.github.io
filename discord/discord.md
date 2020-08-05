@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Unnamed RE Discord Server Policies
+exclude_from_sidebar: true
 ---
 
 Documentation, Info, and Code of Conduct for the Unnamed RE Discord Server.
