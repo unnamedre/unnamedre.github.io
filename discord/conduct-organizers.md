@@ -1,4 +1,7 @@
-# Unammed RE Discord Code of Conduct - For Admins
+---
+layout: page
+title: Unammed RE Discord Code of Conduct - For Admins
+---
 
 This version is intended for internal use by the discord admins.
 

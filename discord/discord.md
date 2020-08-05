@@ -1,4 +1,7 @@
-# Unnamed RE Discord Server Policies
+---
+layout: page
+title: Unnamed RE Discord Server Policies
+---
 
 Documentation, Info, and Code of Conduct for the Unnamed RE Discord Server.
 
