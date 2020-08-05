@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page_nomenu
 title: Unammed RE Discord Code of Conduct
-exclude_from_sidebar: true
 ---
 
 The Unammed RE Discord is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, country of origin, age or religion.  We do not tolerate harassment of community participants in any form.  

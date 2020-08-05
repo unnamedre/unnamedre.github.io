@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page_nomenu
 title: Unammed RE Discord Code of Conduct - For Admins
-exclude_from_sidebar: true
 ---
 
 This version is intended for internal use by the discord admins.
