@@ -5,6 +5,7 @@ subtitle: "An interview with Chris Gerlinsky"
 date: 2019-06-30 14:50:59
 categories: episode
 dir_id: 10344302
+guests: Chris Gerlinsky
 permalink: episode/22
 ---
 <p>

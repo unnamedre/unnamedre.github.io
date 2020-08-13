@@ -5,6 +5,7 @@ subtitle: "An interview with Rick Altherr"
 date: 2019-07-15 03:08:22
 categories: episode
 dir_id: 10520201
+guests: Rick Altherr
 permalink: episode/24
 ---
 <p>

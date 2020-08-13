@@ -5,6 +5,7 @@ subtitle: "An Interview with John McMaster"
 date: 2020-02-25 15:04:03
 categories: episode
 dir_id: 13293566
+guests: John McMaster
 permalink: episode/32
 ---
 <p>

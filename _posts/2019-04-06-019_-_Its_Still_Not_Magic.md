@@ -5,6 +5,7 @@ subtitle: "An interview with Holly Graceful"
 date: 2019-04-06 13:28:10
 categories: episode
 dir_id: 9292235
+guests: Holly Graceful
 permalink: episode/19
 ---
 <p>

@@ -5,6 +5,7 @@ subtitle: "An Interview with Ken Shirriff"
 date: 2017-11-06 00:53:38
 categories: episode
 dir_id: 5913284
+guests: Ken Shirriff
 permalink: episode/5
 ---
 <p>

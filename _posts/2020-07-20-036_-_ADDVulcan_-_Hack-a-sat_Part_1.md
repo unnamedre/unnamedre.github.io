@@ -5,6 +5,9 @@ subtitle: "An interview with Amie DD and Will C"
 date: 2020-07-20 15:00:27
 categories: episode
 dir_id: 15283220
+guests:
+    - Amie DD
+    - Will C
 permalink: episode/36
 ---
 <p>

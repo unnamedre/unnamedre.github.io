@@ -5,6 +5,9 @@ subtitle: "An Interview with Aaron Moncur and Brandon Graham from Pipeline Desig
 date: 2020-06-23 03:29:07
 categories: episode
 dir_id: 14929019
+guests: 
+    - Aaron Moncur
+    - Brandon Graham
 permalink: episode/34
 ---
 <p>

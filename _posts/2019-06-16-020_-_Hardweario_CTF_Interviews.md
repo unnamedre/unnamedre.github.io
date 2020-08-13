@@ -5,6 +5,9 @@ subtitle: "Interviews with Hardwear.io CTF contestants and organizers"
 date: 2019-06-16 13:23:31
 categories: episode
 dir_id: 10164797
+guests: 
+    - Phillipe Teuwen
+    - Graziano
 permalink: episode/20
 ---
 <p>
