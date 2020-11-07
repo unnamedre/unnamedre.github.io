@@ -5,7 +5,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'UREP'
+title:            'Unnamed Reverse Engineering Podcast'
 tagline:          ''
 description:      'Unnamed Reverse Engineering Podcast'
 url:              http://unnamedre.github.io
