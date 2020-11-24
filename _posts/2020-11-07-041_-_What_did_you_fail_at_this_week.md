@@ -6,6 +6,8 @@ date: 2020-11-07 19:15:45
 categories: episode
 dir_id: 16719725
 permalink: episode/41
+guests:
+    - Samy Kamkar
 ---
 <p>
  Jen and Alvaro chat with Samy Kamkar about his new NAT Slipstreaming research and a lot more!
