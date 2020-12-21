@@ -1,6 +1,7 @@
 # Unnamed Reverse Engineering Podcast
 
 ## Site Generator
+If you are adding a new episode, look at the PODCASTING.md for details.
 
 ### Installation (run once)
 From root directory:
