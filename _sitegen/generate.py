@@ -12,6 +12,7 @@ import os
 import requests
 import urllib
 import git
+import ssl
 from bs4 import BeautifulSoup
 
 FEED_URL = "http://reverseengineering.libsyn.com/rss"
@@ -153,22 +154,28 @@ def generate_filename(entry):
 
 
 parser = argparse.ArgumentParser()
+
+print("Starting to process feed at ", FEED_URL)
 parser.add_argument(
     "--overwrite", action="store_true", help="Overvwrite existing markdown files"
 )
 args = parser.parse_args()
-
 git_repo = git.Repo(".", search_parent_directories=True)
 repo_path = git_repo.git.rev_parse("--show-toplevel")
-
+print("Loading Posts directory")
 load_dir_ids(DIR_ID_FILENAME)
 
+# Workaround for failed cert issue from:
+# https://stackoverflow.com/questions/28282797/feedparser-parse-ssl-certificate-verify-failed
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
+print("Load remote feed URL.")
 d = feedparser.parse(FEED_URL)
-
+print("Process entries:")
 for entry in d.entries:
     filename = generate_filename(entry)
     posts_path = repo_path + "/_posts/"
-
+    print("Post entry ", posts_path,filename)
     if args.overwrite is False and os.path.isfile(posts_path + filename):
         continue
 
