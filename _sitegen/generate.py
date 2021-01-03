@@ -175,8 +175,12 @@ print("Process entries:")
 for entry in d.entries:
     filename = generate_filename(entry)
     posts_path = repo_path + "/_posts/"
-    print("Post entry ", posts_path,filename)
+    print("Post entry ", posts_path + filename)
     if args.overwrite is False and os.path.isfile(posts_path + filename):
+        continue
+
+    if get_dir_id(entry) is None:
+        print(f"No directory ID found for {entry.title}")
         continue
 
     with open(posts_path + filename, "w") as outfile:
