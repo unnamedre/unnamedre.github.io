@@ -1,7 +1,7 @@
 ---
 layout: episode
 title: "035 - Giving it all away (Listener Survery)"
-subtitle: ""
+subtitle:
 date: 2020-07-04 23:02:32
 categories: episode
 dir_id: 15086150
