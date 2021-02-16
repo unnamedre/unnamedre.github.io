@@ -118,7 +118,7 @@ guests:
   </a>
  </li>
  <li aria-level="1">
-  <a href="https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html">
+  <a href="https://chiaki.re">
    Chiaki
   </a>
  </li>
