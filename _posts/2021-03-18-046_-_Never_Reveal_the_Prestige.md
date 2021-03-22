@@ -8,7 +8,18 @@ dir_id: 18374732
 permalink: episode/46
 ---
 <p>
- Cam Hackett and Lucien Brulé from Ramagine.com joined us to talk about their process of talking to  a lot of security researchers and reverse engineers to develop a NSF report (why yes we are trying to find/get our hands on it) and how they used what they found to create their RE sharing tool. We tackle the world of RE from a different perspective which includes the importance of  business development and what is market research.
+ <a href="https://twitter.com/CamHackett">
+  Cam Hackett
+ </a>
+ and
+ <a href="https://twitter.com/_LucienBrule">
+  Lucien Brulé
+ </a>
+ from
+ <a href="https://www.ramagine.com/">
+  Ramagine.com
+ </a>
+ joined us to talk about their process of talking to  a lot of security researchers and reverse engineers to develop a NSF report (why yes we are trying to find/get our hands on it) and how they used what they found to create their RE sharing tool. We tackle the world of RE from a different perspective which includes the importance of  business development and what is market research.
 </p>
 <p>
  One of the largest takeaways they found was a 3.5 Million job gap  where RE skills are needed that is relatively hidden.
