@@ -12,7 +12,7 @@ permalink: episode/51
  <a href="https://www.youtube.com/watch?v=0C7nIEUu6b0">
   Hardware.io
  </a>
- . We did a deep dive on ROM patches on Broadcom chips. If you will want to listen to this episode if you are thinking about using iOS devices for your reversing.
+. We did a deep dive on ROM patches on Broadcom chips. If you will want to listen to this episode if you are thinking about using iOS devices for your reversing.
 </p>
 <p>
  <a href="https://github.com/seemoo-lab/frankenstein">
