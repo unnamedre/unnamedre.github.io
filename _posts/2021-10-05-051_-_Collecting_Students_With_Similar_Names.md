@@ -10,7 +10,7 @@ permalink: episode/51
 <p>
  Our guest, Jiska Classen (<a href="https://twitter.com/naehrdine">@naehrdine</a>) is a security researcher at University of Darmstadt (why, yes you can specialize in Security here) and focuses on reverse engineering wireless things. She is a speaker at this year’s
  <a href="https://www.youtube.com/watch?v=0C7nIEUu6b0">
-  Hardware IO
+  Hardware.io
  </a>
  . We did a deep dive on ROM patches on Broadcom chips. If you will want to listen to this episode if you are thinking about using iOS devices for your reversing.
 </p>
