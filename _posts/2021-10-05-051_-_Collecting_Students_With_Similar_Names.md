@@ -8,7 +8,7 @@ dir_id: 20708993
 permalink: episode/51
 ---
 <p>
- Our guest, Jiska Classen (@naehrdine) is  a security researcher at University of Darmstadt (why, yes you can specialize in Security here) and focuses  on reverse engineering wireless things. She is a speaker at this year’s
+ Our guest, Jiska Classen ([@naehrdine](https://twitter.com/naehrdine)) is a security researcher at University of Darmstadt (why, yes you can specialize in Security here) and focuses on reverse engineering wireless things. She is a speaker at this year’s
  <a href="https://www.youtube.com/watch?v=0C7nIEUu6b0">
   Hardware IO
  </a>
@@ -39,7 +39,7 @@ permalink: episode/51
  (Jan Friebertshäuser)
 </p>
 <p>
- Thumbs up - ARM function identification ​​
+ Thumbs up - ARM function identification 
  <a href="https://karta.readthedocs.io/en/latest/Thumbs%20Up.html">
   https://karta.readthedocs.io/en/latest/Thumbs%20Up.html
  </a>
