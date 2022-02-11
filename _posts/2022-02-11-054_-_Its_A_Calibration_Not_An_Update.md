@@ -8,11 +8,9 @@ dir_id: 22102031
 permalink: episode/54
 ---
 <p>
- Willem Melching(
- <a href="https://twitter.com/PD0WM">
+ Willem Melching(<a href="https://twitter.com/PD0WM">
   @PD0WM
- </a>
- ) joins us to chat about reverse engineering cars!
+ </a>) joins us to chat about reverse engineering cars!
  <br/>
  <br/>
  We discovered him through
@@ -23,14 +21,14 @@ permalink: episode/54
  <a href="https://comma.ai">
   comma.ai
  </a>
- .
+.
  <a href="https://comma.ai/jobs">
   <strong>
    They are hiring
   </strong>
  </a>
  <strong>
-  !
+!
  </strong>
 </p>
 <p>
