@@ -166,9 +166,9 @@ permalink: episode/34
   </a>
  </li>
  <li>
-  <a href="https://www.3dhubs.com/">
-   https://www.3dhubs.com/
-  </a>
+  <a href="https://www.hubs.com/">
+   https://www.hubs.com/ 
+  </a> (Previously 3dhubs.com)
  </li>
  <li>
   <a href="https://markforged.com/">
