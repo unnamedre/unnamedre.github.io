@@ -233,7 +233,7 @@ permalink: episode/59
   <ul>
    <li aria-level="2">
     <a href="https://en.wikipedia.org/wiki/Michael_W._Ryan">
-     Michael W. Ryan - Murdered
+     Michael W. Ryan - Murderer
     </a>
    </li>
    <li aria-level="2">
