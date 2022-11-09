@@ -122,8 +122,11 @@ def load_dir_ids(filename):
 
 
 def get_dir_id(entry):
-    episode_num = int(entry.title.split(" - ")[0])
-    return dir_ids.get(episode_num)
+    try:
+        episode_num = int(entry.title.split(" - ")[0])
+        return dir_ids.get(episode_num)
+    except ValueError:
+        return None
 
 
 def post_header(entry):
