@@ -1,14 +1,14 @@
 ---
 layout: episode
 title: "076 - Living In A Vast World of Craziness"
-subtitle: "Dan Walter/  joins us after a long email chain to find a time. You’ll understand why it was so hard in the interview. Jen met Dan at   where he runs an ISP hacking village/ward.    We covered a lot of stuff at various levels of the OSI..."
+subtitle: "Dan Walters"
 date: 2025-09-29 01:30:00
 categories: episode
 dir_id: 38388135
 permalink: episode/76
 ---
 <p dir="ltr" id="docs-internal-guid-2e7249fa-7fff-7a96-6764-3ab33f5ed957" style="line-height: 1.56; margin-top: 10pt; margin-bottom: 0pt;">
-  Dan Walter/
+  Dan Walters 
   <a href="http://bytetinker.net" style="text-decoration: none;">
     Bytetinker
   </a>
