@@ -134,7 +134,13 @@ def post_header(entry):
     header.append("---")
     header.append("layout: episode")
     header.append('title: "' + entry.title + '"')
-    header.append('subtitle: "{}"'.format(entry.subtitle.replace('"','\\"')))
+    
+    # Get subtitle, prompt user if missing
+    subtitle = getattr(entry, 'subtitle', None)
+    if subtitle is None:
+        subtitle = input(f'Enter subtitle for "{entry.title}": ')
+    
+    header.append('subtitle: "{}"'.format(subtitle.replace('"','\\"')))
     header.append(time.strftime("date: %Y-%m-%d %H:%M:%S", entry.published_parsed))
     header.append("categories: episode")
     header.append("dir_id: " + str(get_dir_id(entry)))
