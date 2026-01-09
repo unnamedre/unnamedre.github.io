@@ -31,6 +31,21 @@ strip_strings = [
 
 
 def strip_unwanted_tags(html, repo_path):
+    soup = BeautifulSoup(html, "html.parser")
+    
+    # Remove all span tags by unwrapping them (keeps the content)
+    for span in soup.find_all("span"):
+        span.unwrap()
+    
+    # Remove all style and dir attributes from all elements
+    for element in soup.find_all(True):  # find_all(True) finds all tags
+        if element.has_attr('style'):
+            del element['style']
+        if element.has_attr('dir'):
+            del element['dir']
+    
+    # Also handle the other unwanted strings
+    html = str(soup)
     for old_string, new_string in strip_strings:
         html = html.replace(old_string, new_string)
 

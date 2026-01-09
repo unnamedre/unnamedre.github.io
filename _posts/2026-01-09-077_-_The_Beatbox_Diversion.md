@@ -8,248 +8,166 @@ dir_id: 39669140
 permalink: episode/77
 ---
 <p>
- <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-  Jen and Alvaro catch up on 2025. Here are some links to the things we talked about:
- </span>
+ Jen and Alvaro catch up on 2025. Here are some links to the things we talked about:
 </p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.youtube.com/watch?v=qlrpeYdm9Ec" style="text-decoration: none;">
-   <span>
-    Wing - Dopamine
-   </span>
+<ul>
+ <li>
+  <a href="https://www.youtube.com/watch?v=qlrpeYdm9Ec">
+   Wing - Dopamine
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://en.wikipedia.org/wiki/Enshittification" style="text-decoration: none;">
-   <span>
-    Enshittification
-   </span>
+ <li>
+  <a href="https://en.wikipedia.org/wiki/Enshittification">
+   Enshittification
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://bhgs.dca.ca.gov/forms_pubs/sb_244_industry_advisory_english.pdf" style="text-decoration: none;">
-   <span>
-    California Right to Repair
-   </span>
+ <li>
+  <a href="https://bhgs.dca.ca.gov/forms_pubs/sb_244_industry_advisory_english.pdf">
+   California Right to Repair
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.youtube.com/@recessim" style="text-decoration: none;">
-   <span>
-    RECESSIM
-   </span>
-  </a>
-  <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-  </span>
- </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.404media.co/" style="text-decoration: none;">
-   <span>
-    404 Media
-   </span>
+ <li>
+  <a href="https://www.youtube.com/@recessim">
+   RECESSIM
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.ifixit.com/go/app" style="text-decoration: none;">
-   <span>
-    iFixit Repair App
-   </span>
+ <li>
+  <a href="https://www.404media.co/">
+   404 Media
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://hackaday.com/2024/09/22/hands-on-with-new-iphones-electrically-released-adhesive/" style="text-decoration: none;">
-   <span>
-    iPhone Electrically Released Adhesive
-   </span>
+ <li>
+  <a href="https://www.ifixit.com/go/app">
+   iFixit Repair App
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://lambgoat.com/news/51012/spotify-under-attack-by-annas-archive-as-they-scraped-300tb-of-datamusic-from-the-platform/" style="text-decoration: none;">
-   <span>
-    Anna's Archive Scraped 300TB from Spotify
-   </span>
+ <li>
+  <a href="https://hackaday.com/2024/09/22/hands-on-with-new-iphones-electrically-released-adhesive/">
+   iPhone Electrically Released Adhesive
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.youtube.com/watch?v=QVXfcIb3OKo&amp;t=7s" style="text-decoration: none;">
-   <span>
-    Benn Jordan Streaming Royalties Video
-   </span>
+ <li>
+  <a href="https://lambgoat.com/news/51012/spotify-under-attack-by-annas-archive-as-they-scraped-300tb-of-datamusic-from-the-platform/">
+   Anna's Archive Scraped 300TB from Spotify
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-   Jon GainSec Gaines:
-   <a href="https://gainsec.com" style="text-decoration: none;">
-    <span>
-     https://gainsec.com
-    </span>
-   </a>
-  </span>
+ <li>
+  <a href="https://www.youtube.com/watch?v=QVXfcIb3OKo&amp;t=7s">
+   Benn Jordan Streaming Royalties Video
+  </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-   Flock videos
-  </span>
+ <li>
+  Jon GainSec Gaines:
+  <a href="https://gainsec.com">
+   https://gainsec.com
+  </a>
  </li>
- <ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-  <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-   <a href="https://www.youtube.com/watch?v=uB0gr7Fh6lY" style="text-decoration: none;">
-    <span>
-     https://www.youtube.com/watch?v=uB0gr7Fh6lY
-    </span>
+ <li>
+  Flock videos
+ </li>
+ <ul>
+  <li>
+   <a href="https://www.youtube.com/watch?v=uB0gr7Fh6lY">
+    https://www.youtube.com/watch?v=uB0gr7Fh6lY
    </a>
   </li>
-  <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-   <a href="https://www.youtube.com/watch?v=vU1-uiUlHTo" style="text-decoration: none;">
-    <span>
-     https://www.youtube.com/watch?v=vU1-uiUlHTo
-    </span>
+  <li>
+   <a href="https://www.youtube.com/watch?v=vU1-uiUlHTo">
+    https://www.youtube.com/watch?v=vU1-uiUlHTo
    </a>
   </li>
  </ul>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.youtube.com/watch?v=hCQCP-5g5bo" style="text-decoration: none;">
-   <span>
-    Benn Jordan "I Saved a PNG Image to a Bird"
-   </span>
+ <li>
+  <a href="https://www.youtube.com/watch?v=hCQCP-5g5bo">
+   Benn Jordan "I Saved a PNG Image to a Bird"
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/" style="text-decoration: none;">
-   <span>
-    404 Media Flock Article
-   </span>
+ <li>
+  <a href="https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/">
+   404 Media Flock Article
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://debuggingrules.com/about-the-book/" style="text-decoration: none;">
-   <span>
-    Debugging Rules Book
-   </span>
+ <li>
+  <a href="https://debuggingrules.com/about-the-book/">
+   Debugging Rules Book
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://wizardzines.com/zines/debugging-guide/" style="text-decoration: none;">
-   <span>
-    Julia Evan's Pocket Guide to Debugging
-   </span>
+ <li>
+  <a href="https://wizardzines.com/zines/debugging-guide/">
+   Julia Evan's Pocket Guide to Debugging
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://mattdinniman.com/" style="text-decoration: none;">
-   <span>
-    Dungeon Crawler Carl
-   </span>
+ <li>
+  <a href="https://mattdinniman.com/">
+   Dungeon Crawler Carl
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.mollywhite.net/" style="text-decoration: none;">
-   <span>
-    Molly White
-   </span>
+ <li>
+  <a href="https://www.mollywhite.net/">
+   Molly White
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://soundbooththeater.com/" style="text-decoration: none;">
-   <span>
-    https://soundbooththeater.com/
-   </span>
+ <li>
+  <a href="https://soundbooththeater.com/">
+   https://soundbooththeater.com/
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="http://dennisetaylor.org/wheres-the-whatever-version/" style="text-decoration: none;">
-   <span>
-    Dennis E. Taylor's thoughts on Audible exclusives
-   </span>
+ <li>
+  <a href="http://dennisetaylor.org/wheres-the-whatever-version/">
+   Dennis E. Taylor's thoughts on Audible exclusives
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://thestorygraph.com/" style="text-decoration: none;">
-   <span>
-    https://thestorygraph.com/
-   </span>
+ <li>
+  <a href="https://thestorygraph.com/">
+   https://thestorygraph.com/
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://letterboxd.com/" style="text-decoration: none;">
-   <span>
-    Letterboxd
-   </span>
+ <li>
+  <a href="https://letterboxd.com/">
+   Letterboxd
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.youtube.com/watch?v=u2vQapLAW88" style="text-decoration: none;">
-   <span>
-    LaurieWired Ghidra MCP Video
-   </span>
+ <li>
+  <a href="https://www.youtube.com/watch?v=u2vQapLAW88">
+   LaurieWired Ghidra MCP Video
   </a>
-  <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-   (
-   <a href="https://github.com/LaurieWired/GhidraMCP" style="text-decoration: none;">
-    <span>
-     github repo
-    </span>
-   </a>
-   <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-    )
-   </span>
-  </span>
+  (
+  <a href="https://github.com/LaurieWired/GhidraMCP">
+   github repo
+  </a>
+  )
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://alvarop.com/2025/09/j-link-compact-usb-c-issues/" style="text-decoration: none;">
-   <span>
-    Alvaro's J-Link Post
-   </span>
+ <li>
+  <a href="https://alvarop.com/2025/09/j-link-compact-usb-c-issues/">
+   Alvaro's J-Link Post
   </a>
  </li>
- <li dir="ltr" style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
-  <a href="https://www.shodan.io/" style="text-decoration: none;">
-   <span>
-    https://www.shodan.io/
-   </span>
+ <li>
+  <a href="https://www.shodan.io/">
+   https://www.shodan.io/
   </a>
  </li>
 </ul>
 <p>
- <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-  Have comments or suggestions for us? Find us on twitter
-  <a href="https://twitter.com/unnamed_show" style="text-decoration: none;">
-   <span>
-    @unnamed_show
-   </span>
-  </a>
-  <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-   ,  or email us at
-   <a href="mailto:show@unnamedre.com" style="text-decoration: none;">
-    <span>
-     show@unnamedre.com
-    </span>
-   </a>
-   <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-    .
-    <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-     Music by
-     <a href="http://www.teknoaxe.com" style="text-decoration: none;">
-      <span>
-       TeknoAxe
-      </span>
-     </a>
-     <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-      (
-      <a href="http://www.youtube.com/user/teknoaxe" style="text-decoration: none;">
-       <span>
-        http://www.youtube.com/user/teknoaxe
-       </span>
-      </a>
-      <span style="font-size: 11pt; font-family: 'Droid Serif',serif; color: #666666; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
-       )
-      </span>
-     </span>
-    </span>
-   </span>
-  </span>
- </span>
+ Have comments or suggestions for us? Find us on twitter
+ <a href="https://twitter.com/unnamed_show">
+  @unnamed_show
+ </a>
+ ,  or email us at
+ <a href="mailto:show@unnamedre.com">
+  show@unnamedre.com
+ </a>
+ .
+ 
+
+  Music by
+ <a href="http://www.teknoaxe.com">
+  TeknoAxe
+ </a>
+ (
+ <a href="http://www.youtube.com/user/teknoaxe">
+  http://www.youtube.com/user/teknoaxe
+ </a>
+ )
 </p>
 
