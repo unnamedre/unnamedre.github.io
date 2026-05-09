@@ -24,7 +24,8 @@ permalink: episode/78
  <a href="https://unnamedre.com/episode/57">
   Episode 57
  </a>
- .Here's a list of things we talked about:
+ .
+ <br/> Here's a list of things we talked about:
 </p>
 <ul>
  <li>
