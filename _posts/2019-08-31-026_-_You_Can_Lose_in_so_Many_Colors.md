@@ -4,7 +4,6 @@ title: "026 - You Can Lose in so Many Colors!"
 subtitle: "An interview with Jeri Ellsworth"
 date: 2019-08-31 02:59:59
 categories: episode
-dir_id: 11067101
 guests: Jeri Ellsworth
 permalink: episode/26
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-026.mp3"

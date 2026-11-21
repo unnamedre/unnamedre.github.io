@@ -4,7 +4,6 @@ title: "059 - Instant Nerd Snipe"
 subtitle: "Another Interview with Mike Ryan"
 date: 2022-07-04 19:00:26
 categories: episode
-dir_id: 23627684
 permalink: episode/59
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-059.mp3"
 audio_length: 44840058

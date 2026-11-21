@@ -4,7 +4,6 @@ title: "075 - Teleporting All Over The Timeline"
 subtitle: "An Interview with Nathan Emerick"
 date: 2025-08-02 15:27:06
 categories: episode
-dir_id: 37646625
 permalink: episode/75
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-075.mp3"
 audio_length: 68343718

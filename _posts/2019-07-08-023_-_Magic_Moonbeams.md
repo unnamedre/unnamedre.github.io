@@ -5,7 +5,6 @@ subtitle: "An interview with Adam Laurie/Major Malfunction"
 date: 2019-07-08 23:09:43
 categories: episode
 guests: Adam Laurie
-dir_id: 10448849
 permalink: episode/23
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-023.mp3"
 audio_length: 23620710

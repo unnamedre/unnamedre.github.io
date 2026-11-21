@@ -4,7 +4,6 @@ title: "069 - Canned Cheese and Onion Rings"
 subtitle: "An Interview with Ian from Dangerous Prototypes"
 date: 2024-04-17 12:33:14
 categories: episode
-dir_id: 30861818
 permalink: episode/69
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-069.mp3"
 audio_length: 59732763

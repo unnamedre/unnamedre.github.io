@@ -4,7 +4,6 @@ title: "065 - Multitalented Grinch"
 subtitle: "Catching Up with Jen and Alvaro"
 date: 2023-07-30 20:34:34
 categories: episode
-dir_id: 27606495
 permalink: episode/65
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-065.mp3"
 audio_length: 45975452

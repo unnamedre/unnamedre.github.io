@@ -4,7 +4,6 @@ title: "024 - Cars, Servers, and FPGAs!"
 subtitle: "An interview with Rick Altherr"
 date: 2019-07-15 03:08:22
 categories: episode
-dir_id: 10520201
 guests: Rick Altherr
 permalink: episode/24
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-024.mp3"

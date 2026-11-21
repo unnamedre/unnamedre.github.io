@@ -4,7 +4,6 @@ title: "062 - Keymap Rain Dance"
 subtitle: "An Interview with David from Cyber City Circuits"
 date: 2022-12-30 15:42:48
 categories: episode
-dir_id: 25464399
 permalink: episode/62
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-062.mp3"
 audio_length: 55067447

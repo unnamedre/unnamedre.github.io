@@ -4,7 +4,6 @@ title: "067 - I Don't Know What I'm Doing"
 subtitle: "Catching up with Jacob Creedon"
 date: 2024-03-03 01:51:11
 categories: episode
-dir_id: 30203053
 permalink: episode/67
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-067.mp3"
 audio_length: 11136008

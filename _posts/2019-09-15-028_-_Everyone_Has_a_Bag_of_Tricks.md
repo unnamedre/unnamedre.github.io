@@ -4,7 +4,6 @@ title: "028 - Everyone Has a Bag of Tricks"
 subtitle: "An interview with Johnny Xmas"
 date: 2019-09-15 18:15:15
 categories: episode
-dir_id: 11257283
 guests: Johnny Xmas
 permalink: episode/28
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-028.mp3"

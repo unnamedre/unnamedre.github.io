@@ -4,7 +4,6 @@ title: "033 - All Over the Place"
 subtitle: "Pandemic updates from Jen and Alvaro"
 date: 2020-04-27 15:34:59
 categories: episode
-dir_id: 14164127
 permalink: episode/33
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-033.mp3"
 audio_length: 32704742

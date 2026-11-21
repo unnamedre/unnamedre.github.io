@@ -4,7 +4,6 @@ title: "052 - Twitter Is My Lab Notebook"
 subtitle: "An interview with @TubeTimeUS"
 date: 2021-10-26 13:54:42
 categories: episode
-dir_id: 20943785
 permalink: episode/52
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-052.mp3"
 audio_length: 91354282

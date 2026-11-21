@@ -83,7 +83,7 @@ def duration_hms(path):
 
 
 def post_filename(date, full_title):
-    # Same rule generate.py used, so names stay consistent with older posts.
+    # Spaces become underscores and other punctuation is dropped (matches older posts).
     title = "".join(c for c in full_title.replace(" ", "_") if c.isalnum() or c in "_-")
     return f"{date:%Y-%m-%d}-{title}.md"
 

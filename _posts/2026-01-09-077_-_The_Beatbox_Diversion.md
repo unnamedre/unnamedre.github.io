@@ -4,7 +4,6 @@ title: "077 - The Beatbox Diversion"
 subtitle: "Catching up with Jen and Alvaro"
 date: 2026-01-09 03:22:19
 categories: episode
-dir_id: 39669140
 permalink: episode/77
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-077.mp3"
 audio_length: 43737910

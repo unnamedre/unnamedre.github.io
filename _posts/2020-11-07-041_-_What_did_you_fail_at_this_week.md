@@ -4,7 +4,6 @@ title: "041 - What did you fail at this week?"
 subtitle: "An Interview with Samy Kamkar"
 date: 2020-11-07 19:15:45
 categories: episode
-dir_id: 16719725
 permalink: episode/41
 guests:
     - Samy Kamkar

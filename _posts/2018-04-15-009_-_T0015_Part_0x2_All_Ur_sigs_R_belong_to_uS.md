@@ -4,7 +4,6 @@ title: "009 - T0015! Part 0x2: All Ur sigs R belong to uS."
 subtitle: "Reverse Engineering Tools - Signal Measurement"
 date: 2018-04-15 03:15:35
 categories: episode
-dir_id: 6481402
 permalink: episode/9
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-009.mp3"
 audio_length: 20529033

@@ -1,18 +1,22 @@
 # Unnamed Reverse Engineering Podcast
 
-## Site Generator
-If you are adding a new episode, look at the PODCASTING.md for details.
+Website and podcast feed for the show, at <https://unnamedre.com>, built by GitHub Pages (Jekyll).
 
-### Installation (run once)
-From root directory:
+- Episodes (MP3s) are hosted on Cloudflare R2 at `media.unnamedre.com`.
+- The podcast feed is `https://unnamedre.com/feed.xml`, generated from `_posts/` by `feed.xml`.
+- Download stats go through [OP3](https://op3.dev).
 
-`pipenv install --three`
+## Adding an episode
 
-### Generate site
-1. Add episode and publish on Libsyn
-1. `Content->Previously Published`.
-1. Click on the **Link/Embed** link for the episode
-1. Copy the last number in the "Libsyn Directory URL"
-1. Add it to `_sitegen/directory_ids.csv` with the episode number in front.
-1. Run `pipenv run _sitegen/generate.py` Note: if this isn't working for you, try using `python3 _sitegen/generate.py`
-1. Review changes with `git diff` or equivalent. Commit. Push.
+See [`_PODCASTING.md`](_PODCASTING.md). In short:
+
+```
+python3 _sitegen/new_episode.py <number> "<Title>" <episode.mp3> \
+    --subtitle "<summary>" --notes <shownotes.md>
+```
+
+Then review the new post, commit and push.
+
+## Local preview
+
+`bundle install && bundle exec jekyll serve`

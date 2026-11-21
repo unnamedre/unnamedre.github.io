@@ -4,7 +4,6 @@ title: "058 - Technically Met the Specs"
 subtitle: "Low SNR - Live @ Hardwear.io USA 2022"
 date: 2022-06-15 06:09:57
 categories: episode
-dir_id: 23433944
 permalink: episode/58
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-058.mp3"
 audio_length: 127707077

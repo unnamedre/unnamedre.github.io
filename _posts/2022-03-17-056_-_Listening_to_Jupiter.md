@@ -4,7 +4,6 @@ title: "056 - Listening to Jupiter"
 subtitle: "An Interview With Oleg Kutkov"
 date: 2022-03-17 03:23:00
 categories: episode
-dir_id: 22476647
 permalink: episode/56
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-056.mp3"
 audio_length: 52530000

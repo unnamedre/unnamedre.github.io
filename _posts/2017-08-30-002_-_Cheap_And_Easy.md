@@ -4,7 +4,6 @@ title: "002 - Cheap And Easy"
 subtitle: "An interview with Dmitry Grinberg"
 date: 2017-08-30 03:45:16
 categories: episode
-dir_id: 5689359
 guests: Dmitry Grinberg
 permalink: episode/2
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-002.mp3"

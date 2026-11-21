@@ -4,7 +4,6 @@ title: "010 - T0015! Part 0x3 - Debug Interfaces"
 subtitle: "Reverse Engineering Tools - Debugging Hardware"
 date: 2018-05-15 02:27:43
 categories: episode
-dir_id: 6593818
 permalink: episode/10
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-010.mp3"
 audio_length: 25531928

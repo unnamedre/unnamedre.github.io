@@ -4,7 +4,6 @@ title: "053 - It's Hammer Time!"
 subtitle: "An Interview With Hash About Smart Power Meters"
 date: 2021-12-16 15:32:08
 categories: episode
-dir_id: 21506159
 permalink: episode/53
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-053.mp3"
 audio_length: 72299021

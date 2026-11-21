@@ -4,7 +4,6 @@ title: "019 - It's Still Not Magic"
 subtitle: "An interview with Holly Graceful"
 date: 2019-04-06 13:28:10
 categories: episode
-dir_id: 9292235
 guests: Holly Graceful
 permalink: episode/19
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-019.mp3"

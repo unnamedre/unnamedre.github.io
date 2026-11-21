@@ -4,7 +4,6 @@ title: "068 - The Monkey Button"
 subtitle: "An Interview with Laurie Wired"
 date: 2024-04-07 14:47:10
 categories: episode
-dir_id: 30715518
 permalink: episode/68
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-068.mp3"
 audio_length: 49572503

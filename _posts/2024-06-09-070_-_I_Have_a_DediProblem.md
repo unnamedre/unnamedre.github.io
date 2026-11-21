@@ -4,7 +4,6 @@ title: "070 - I Have a DediProblem"
 subtitle: "BIOS/UEFI RE with Jesse Michael and Mickey Shkatov"
 date: 2024-06-09 17:09:02
 categories: episode
-dir_id: 31668987
 permalink: episode/70
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-070.mp3"
 audio_length: 83665832

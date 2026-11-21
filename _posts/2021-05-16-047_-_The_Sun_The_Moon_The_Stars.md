@@ -4,7 +4,6 @@ title: "047 - The Sun, The Moon, The Stars"
 subtitle: "Catch up episode with Jen and Alvaro"
 date: 2021-05-16 15:26:35
 categories: episode
-dir_id: 19122005
 permalink: episode/47
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-047.mp3"
 audio_length: 36505906

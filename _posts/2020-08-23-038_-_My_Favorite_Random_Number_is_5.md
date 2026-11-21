@@ -4,7 +4,6 @@ title: "038 - My Favorite Random Number is 5"
 subtitle: "An interview with Colin O'Flynn"
 date: 2020-08-23 02:17:30
 categories: episode
-dir_id: 15717464
 guests:
     - Colin O'Flynn
 permalink: episode/38

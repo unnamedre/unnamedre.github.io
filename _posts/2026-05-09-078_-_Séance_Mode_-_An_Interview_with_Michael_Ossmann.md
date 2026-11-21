@@ -4,7 +4,6 @@ title: "078 - Séance Mode - An Interview with Michael Ossmann"
 subtitle: ""
 date: 2026-05-09 16:46:00
 categories: episode
-dir_id: 41234210
 permalink: episode/78
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-078.mp3"
 audio_length: 66793168

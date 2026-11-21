@@ -4,7 +4,6 @@ title: "049 - Reversing Your Childhood One Game At a Time"
 subtitle: "An interview with James Chambers"
 date: 2021-07-11 02:29:41
 categories: episode
-dir_id: 19769315
 permalink: episode/49
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-049.mp3"
 audio_length: 40205286

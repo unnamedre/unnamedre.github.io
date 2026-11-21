@@ -4,7 +4,6 @@ title: "046 - Never Reveal the Prestige"
 subtitle: "Cam Hackett and Lucien Brule of Ramagine"
 date: 2021-03-18 05:53:34
 categories: episode
-dir_id: 18374732
 permalink: episode/46
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-046.mp3"
 audio_length: 72362320

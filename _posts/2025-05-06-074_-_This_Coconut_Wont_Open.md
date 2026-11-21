@@ -4,7 +4,6 @@ title: "074 - This Coconut Won't Open"
 subtitle: "An Interview With Noah Holland & Joshua Stiebel"
 date: 2025-05-06 13:02:16
 categories: episode
-dir_id: 36453490
 permalink: episode/74
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-074.mp3"
 audio_length: 46830047

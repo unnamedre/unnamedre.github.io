@@ -4,7 +4,6 @@ title: "022 - Bits Through the Microscope"
 subtitle: "An interview with Chris Gerlinsky"
 date: 2019-06-30 14:50:59
 categories: episode
-dir_id: 10344302
 guests: Chris Gerlinsky
 permalink: episode/22
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-022.mp3"

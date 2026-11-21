@@ -4,7 +4,6 @@ title: "061 - A Case of the Sniffles"
 subtitle: "BLE Reversing with Sultan Qasim Khan"
 date: 2022-11-09 05:54:24
 categories: episode
-dir_id: 24951054
 permalink: episode/61
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-061.mp3"
 audio_length: 43200663

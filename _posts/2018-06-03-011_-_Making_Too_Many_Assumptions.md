@@ -4,7 +4,6 @@ title: "011 - Making Too Many Assumptions"
 subtitle: "An interview with Mike Ryan, Bluetooth Expert"
 date: 2018-06-03 19:27:20
 categories: episode
-dir_id: 6663454
 guests: Mike Ryan
 permalink: episode/11
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-011.mp3"

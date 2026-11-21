@@ -4,7 +4,6 @@ title: "055 - Stacks Of Bricked Chips"
 subtitle: "An Interview With Laura Abbott"
 date: 2022-03-13 18:27:23
 categories: episode
-dir_id: 22431845
 permalink: episode/55
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-055.mp3"
 audio_length: 44599669

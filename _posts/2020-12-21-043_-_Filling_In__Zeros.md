@@ -4,7 +4,6 @@ title: "043 - Filling In  Zeros"
 subtitle: "Interview with Dmitry Grinberg"
 date: 2020-12-21 22:32:41
 categories: episode
-dir_id: 17284688
 permalink: episode/43
 guests: Dmitry Grinberg
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-043.mp3"

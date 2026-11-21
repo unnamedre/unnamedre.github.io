@@ -4,7 +4,6 @@ title: "051 - Collecting Students With Similar Names"
 subtitle: "A visit from Jiska Classen"
 date: 2021-10-05 05:22:12
 categories: episode
-dir_id: 20708993
 permalink: episode/51
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-051.mp3"
 audio_length: 82678871

@@ -4,7 +4,6 @@ title: "076 - Living In A Vast World of Craziness"
 subtitle: "An interview with Dan Walters"
 date: 2025-09-29 01:30:00
 categories: episode
-dir_id: 38388135
 permalink: episode/76
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-076.mp3"
 audio_length: 47001192

@@ -4,7 +4,6 @@ title: "066 - Use Your Scope!"
 subtitle: "Reverse Engineering the MegaII with James Lewis."
 date: 2023-12-09 15:34:00
 categories: episode
-dir_id: 29000043
 permalink: episode/66
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-066.mp3"
 audio_length: 72152106

@@ -4,7 +4,6 @@ title: "057 - I Did Not Expect Sharks!"
 subtitle: "An Interview With Michael Ossmann"
 date: 2022-05-09 18:04:02
 categories: episode
-dir_id: 23052989
 permalink: episode/57
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-057.mp3"
 audio_length: 70262059

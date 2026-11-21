@@ -4,7 +4,6 @@ title: "003 - Barbies and Keyboards"
 subtitle: "Jen and Alvaro's Projects"
 date: 2017-09-17 22:25:17
 categories: episode
-dir_id: 5746216
 permalink: episode/3
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-003.mp3"
 audio_length: 24304140

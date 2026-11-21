@@ -4,7 +4,6 @@ title: "045 - Rizin and Cutter"
 subtitle: "An Interview with Itay Cohen and Florian Märkl"
 date: 2021-02-15 21:37:50
 categories: episode
-dir_id: 17959778
 permalink: episode/45
 guests: 
     - Florian Märkl

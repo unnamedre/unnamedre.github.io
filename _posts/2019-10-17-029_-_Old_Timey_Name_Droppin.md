@@ -4,7 +4,6 @@ title: "029 - Old Timey Name Droppin’"
 subtitle: "Philip Freidin 9/16/2019"
 date: 2019-10-17 03:37:51
 categories: episode
-dir_id: 11661794
 guests: Phillip Freidin
 permalink: episode/29
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-029.mp3"

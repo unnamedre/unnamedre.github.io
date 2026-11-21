@@ -4,7 +4,6 @@ title: "054 - It’s A Calibration, Not An Update!"
 subtitle: "Reverse Engineering Cars with Willem Melching"
 date: 2022-02-11 14:50:46
 categories: episode
-dir_id: 22102031
 permalink: episode/54
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-054.mp3"
 audio_length: 54989355

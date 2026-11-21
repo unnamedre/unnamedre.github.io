@@ -4,7 +4,6 @@ title: "021 - Silent Disco Wizards"
 subtitle: "An interview with Jonathan Brossard"
 date: 2019-06-23 14:31:26
 categories: episode
-dir_id: 10252769
 guests: Jonathan Brossard
 permalink: episode/21
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-021.mp3"

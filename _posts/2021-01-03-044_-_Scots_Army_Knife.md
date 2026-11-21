@@ -4,7 +4,6 @@ title: "044 - Scots Army Knife"
 subtitle: "An Interview with Piotr Esden-Tempski"
 date: 2021-01-03 22:28:00
 categories: episode
-dir_id: 17406698
 permalink: episode/44
 guests: 
     - Piotr Esden-Tempski

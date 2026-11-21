@@ -4,7 +4,6 @@ title: "035 - Giving it all away (Listener Survery)"
 subtitle:
 date: 2020-07-04 23:02:32
 categories: episode
-dir_id: 15086150
 permalink: episode/35
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-035.mp3"
 audio_length: 4553342

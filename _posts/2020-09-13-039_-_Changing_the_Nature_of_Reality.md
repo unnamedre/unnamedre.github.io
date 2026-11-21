@@ -4,7 +4,6 @@ title: "039 - Changing the Nature of Reality"
 subtitle: "An interview with Natalie Silvanovich"
 date: 2020-09-13 18:11:12
 categories: episode
-dir_id: 15991802
 guests:
     - Natalie Silvanovich
 permalink: episode/39

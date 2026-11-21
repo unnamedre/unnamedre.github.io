@@ -4,7 +4,6 @@ title: "042 - Diwali in the Morning"
 subtitle: "Interview with Asmita Jha"
 date: 2020-11-24 17:00:00
 categories: episode
-dir_id: 16904030
 permalink: episode/42
 guests:
     - Asmita Jha

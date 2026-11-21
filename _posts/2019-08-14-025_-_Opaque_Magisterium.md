@@ -4,7 +4,6 @@ title: "025 - Opaque Magisterium"
 subtitle: "Reverse Engineering USB Devices with Kate Temkin and Mikaela Szekely"
 date: 2019-08-14 23:21:40
 categories: episode
-dir_id: 10886643
 guests:
     - Kate Temkin
     - Mikaela Szekely

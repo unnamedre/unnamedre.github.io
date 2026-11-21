@@ -4,7 +4,6 @@ title: "048 - A Bad Case of Kubernitis"
 subtitle: "An Interview with Mark Manning (about containers!)"
 date: 2021-06-06 14:11:10
 categories: episode
-dir_id: 19369796
 permalink: episode/48
 audio_url: "https://media.unnamedre.com/episodes/unnamedre-048.mp3"
 audio_length: 54739470
