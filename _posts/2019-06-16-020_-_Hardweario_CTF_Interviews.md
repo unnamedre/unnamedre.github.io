@@ -9,6 +9,10 @@ guests:
     - Phillipe Teuwen
     - Graziano
 permalink: episode/20
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-020.mp3"
+audio_length: 20968456
+duration: "00:29:07"
+guid: "7dbe7d5311ae41a1bced77dc25752fbc"
 ---
 <p>
  In this episode, Alvaro interviews contestants and organizers of the

@@ -6,6 +6,10 @@ date: 2024-04-07 14:47:10
 categories: episode
 dir_id: 30715518
 permalink: episode/68
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-068.mp3"
+audio_length: 49572503
+duration: "01:08:51"
+guid: "a2269892-ea71-4a33-9447-8d8e3865fe35"
 ---
 <p dir="ltr">
  We talked to Laurie Wired (

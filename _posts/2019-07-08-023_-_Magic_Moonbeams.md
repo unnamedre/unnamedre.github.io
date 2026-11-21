@@ -7,6 +7,10 @@ categories: episode
 guests: Adam Laurie
 dir_id: 10448849
 permalink: episode/23
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-023.mp3"
+audio_length: 23620710
+duration: "00:32:48"
+guid: "a7fe6378d0e2483fbf7b85c9ff309055"
 ---
 <p>
  In this episode, Alvaro talks to

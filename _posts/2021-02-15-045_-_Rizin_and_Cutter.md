@@ -9,6 +9,10 @@ permalink: episode/45
 guests: 
     - Florian Märkl
     - Itay Cohen
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-045.mp3"
+audio_length: 58553739
+duration: "01:21:19"
+guid: "b8231421-5986-4fe4-96ed-812bbc07acfe"
 ---
 <p>
  Jen and Alvaro chat with

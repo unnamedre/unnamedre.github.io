@@ -6,6 +6,10 @@ date: 2022-11-09 05:54:24
 categories: episode
 dir_id: 24951054
 permalink: episode/61
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-061.mp3"
+audio_length: 43200663
+duration: "01:00:00"
+guid: "6afcb984-e4ff-4115-8e1f-8c5129e07018"
 ---
 <p>
  Note:

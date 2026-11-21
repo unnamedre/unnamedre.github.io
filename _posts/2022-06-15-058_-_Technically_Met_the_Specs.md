@@ -6,6 +6,10 @@ date: 2022-06-15 06:09:57
 categories: episode
 dir_id: 23433944
 permalink: episode/58
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-058.mp3"
+audio_length: 127707077
+duration: "01:28:41"
+guid: "efaaf213-c3aa-44ce-995f-f2dc3b0dfe73"
 ---
 <p>
  Special thanks to Andrea of

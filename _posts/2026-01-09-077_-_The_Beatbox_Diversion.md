@@ -6,6 +6,10 @@ date: 2026-01-09 03:22:19
 categories: episode
 dir_id: 39669140
 permalink: episode/77
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-077.mp3"
+audio_length: 43737910
+duration: "01:00:45"
+guid: "801bd0a2-9ed5-4668-a285-e99a6cd027c8"
 ---
 <p>
  Jen and Alvaro catch up on 2025. Here are some links to the things we talked about:

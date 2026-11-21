@@ -7,6 +7,10 @@ categories: episode
 dir_id: 11257283
 guests: Johnny Xmas
 permalink: episode/28
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-028.mp3"
+audio_length: 62169777
+duration: "01:14:01"
+guid: "b9eae977ff424afc85097115d7260eb2"
 ---
 <p>
  In this interview, recorded at

@@ -6,6 +6,10 @@ date: 2018-04-15 03:15:35
 categories: episode
 dir_id: 6481402
 permalink: episode/9
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-009.mp3"
+audio_length: 20529033
+duration: "00:28:31"
+guid: "d475e2231ce7597598bf7dbdc5da9446"
 ---
 <p>
  In this episode, we talked about measuring things (Well mostly digital and some analog things)!

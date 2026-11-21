@@ -6,6 +6,10 @@ date: 2026-05-09 16:46:00
 categories: episode
 dir_id: 41234210
 permalink: episode/78
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-078.mp3"
+audio_length: 66793168
+duration: "01:32:46"
+guid: "da4dbf21-c5e3-4e0d-87e6-349c90445993"
 ---
 <p>
  Michael Ossmann(

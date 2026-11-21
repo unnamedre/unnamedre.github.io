@@ -6,6 +6,10 @@ date: 2019-12-27 08:25:42
 categories: episode
 dir_id: 12532595
 permalink: episode/31
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-031.mp3"
+audio_length: 32304568
+duration: "00:44:52"
+guid: "8424bcbb-a19e-4b95-85df-e743973fcd0a"
 ---
 <p>
  Year end review of our favorite shows, what happened in the world, and what is next.

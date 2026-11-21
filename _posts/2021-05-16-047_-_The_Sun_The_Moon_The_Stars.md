@@ -6,6 +6,10 @@ date: 2021-05-16 15:26:35
 categories: episode
 dir_id: 19122005
 permalink: episode/47
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-047.mp3"
+audio_length: 36505906
+duration: "00:50:42"
+guid: "de571828-fdce-45d5-9e14-02890f7be101"
 ---
 <p>
  Jen and Alvaro chat about what they’ve been up to and a few interesting RE related reads.

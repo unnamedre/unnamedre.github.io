@@ -6,6 +6,10 @@ date: 2025-09-29 01:30:00
 categories: episode
 dir_id: 38388135
 permalink: episode/76
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-076.mp3"
+audio_length: 47001192
+duration: "01:00:41"
+guid: "28fba55f-13a8-4ae5-819e-a504e7fe2bf3"
 ---
 <p dir="ltr" id="docs-internal-guid-2e7249fa-7fff-7a96-6764-3ab33f5ed957" style="line-height: 1.56; margin-top: 10pt; margin-bottom: 0pt;">
   Dan Walters/ 

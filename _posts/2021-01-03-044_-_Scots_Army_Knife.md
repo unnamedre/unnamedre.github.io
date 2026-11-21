@@ -8,6 +8,10 @@ dir_id: 17406698
 permalink: episode/44
 guests: 
     - Piotr Esden-Tempski
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-044.mp3"
+audio_length: 74609015
+duration: "01:43:37"
+guid: "c795f0b7-17ba-47f0-9d62-d64917f4db23"
 ---
 <p>
  <a href="https://twitter.com/esden">

@@ -6,6 +6,10 @@ date: 2021-07-11 02:29:41
 categories: episode
 dir_id: 19769315
 permalink: episode/49
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-049.mp3"
+audio_length: 40205286
+duration: "01:00:57"
+guid: "fbc5726e-025c-499f-9c7a-845356690cf1"
 ---
 <p>
  This episode Jen is hosting alone so she opted to focus on getting answers to all her Animal Crossing hacking questions by bringing in security researcher and reverse engineer,

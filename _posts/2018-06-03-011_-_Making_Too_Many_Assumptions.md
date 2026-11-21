@@ -7,6 +7,10 @@ categories: episode
 dir_id: 6663454
 guests: Mike Ryan
 permalink: episode/11
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-011.mp3"
+audio_length: 32582505
+duration: "00:45:15"
+guid: "c94cf8f509884e139d3660bfbf7e7f69"
 ---
 <p>
  This week

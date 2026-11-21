@@ -6,6 +6,10 @@ date: 2023-07-30 20:34:34
 categories: episode
 dir_id: 27606495
 permalink: episode/65
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-065.mp3"
+audio_length: 45975452
+duration: "01:03:51"
+guid: "818878f2-7fad-4abe-9050-98fe3922d0ed"
 ---
 <p >
   No guest this time! Jen and Alvaro catch up 😀

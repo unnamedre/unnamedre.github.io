@@ -6,6 +6,10 @@ date: 2017-12-06 03:39:47
 categories: episode
 dir_id: 6004254
 permalink: episode/6
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-006.mp3"
+audio_length: 12358457
+duration: "00:17:10"
+guid: "34cb36c2b26c30c99c47a28bcc4ca500"
 ---
 <p>
  A quick year end update and feedback show from just the hosts.

@@ -9,6 +9,10 @@ guests:
     - Aaron Moncur
     - Brandon Graham
 permalink: episode/34
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-034.mp3"
+audio_length: 66603956
+duration: "01:32:30"
+guid: "5d013f20-2543-4f47-a6fb-05e5f0ccb565"
 ---
 <p>
  <a href="https://www.linkedin.com/in/pipelinedesign/">

@@ -8,6 +8,10 @@ dir_id: 15991802
 guests:
     - Natalie Silvanovich
 permalink: episode/39
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-039.mp3"
+audio_length: 44141685
+duration: "01:01:18"
+guid: "31e78897-a790-4d5a-b7f2-1c8763705ad9"
 ---
 <p>
  Jen and Alvaro chat with

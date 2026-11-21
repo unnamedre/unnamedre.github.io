@@ -9,6 +9,10 @@ guests:
     - Kate Temkin
     - Mikaela Szekely
 permalink: episode/25
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-025.mp3"
+audio_length: 70694724
+duration: "01:38:11"
+guid: "6118110ffbb543359a49827dbc490105"
 ---
 <p>
  Alvaro chats with

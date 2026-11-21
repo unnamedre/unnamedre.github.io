@@ -7,6 +7,10 @@ categories: episode
 dir_id: 5913284
 guests: Ken Shirriff
 permalink: episode/5
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-005.mp3"
+audio_length: 41271233
+duration: "00:57:19"
+guid: "f9f23d7f5987923ee6ad414a0f24e8ee"
 ---
 <p>
  This week we were joined by the incredible IC reverse engineer,

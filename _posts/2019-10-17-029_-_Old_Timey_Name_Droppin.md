@@ -7,6 +7,10 @@ categories: episode
 dir_id: 11661794
 guests: Phillip Freidin
 permalink: episode/29
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-029.mp3"
+audio_length: 73302211
+duration: "01:41:48"
+guid: "09a85eb0dbbc466b8d9af5aec8d99d80"
 ---
 <p>
  We welcomed Philip Freidin this week to the show to talk about his work in FGPAs and what kind of smart or least smart bets to take. We did spend some time to talk about how much Silicon Valley has changed by talking about cherries.

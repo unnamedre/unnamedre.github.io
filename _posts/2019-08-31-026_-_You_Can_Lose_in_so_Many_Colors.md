@@ -7,6 +7,10 @@ categories: episode
 dir_id: 11067101
 guests: Jeri Ellsworth
 permalink: episode/26
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-026.mp3"
+audio_length: 89253692
+duration: "02:03:58"
+guid: "4b6027ba176c4e34aea92bea45cb5d12"
 ---
 <p>
  <a href="https://www.jeriellsworth.com/">

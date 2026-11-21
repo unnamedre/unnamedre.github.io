@@ -6,6 +6,10 @@ date: 2025-05-06 13:02:16
 categories: episode
 dir_id: 36453490
 permalink: episode/74
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-074.mp3"
+audio_length: 46830047
+duration: "01:05:02"
+guid: "cbf02a77-8fb4-44ae-a8e8-3a33d63de763"
 ---
 <p>
  Jen and Alvaro talked to Noah Holland &amp; Joshua Stiebel about electronic lock reverse engineering. Here are links to some of the things we talked about:

@@ -8,6 +8,10 @@ dir_id: 15717464
 guests:
     - Colin O'Flynn
 permalink: episode/38
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-038.mp3"
+audio_length: 54482100
+duration: "01:15:40"
+guid: "fd05b293-800e-49a7-835e-23cbe5c1b46f"
 ---
 <p>
  Jen and Alvaro chat with

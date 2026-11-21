@@ -7,6 +7,10 @@ categories: episode
 dir_id: 10344302
 guests: Chris Gerlinsky
 permalink: episode/22
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-022.mp3"
+audio_length: 17467631
+duration: "00:24:16"
+guid: "3a4892cf2985484c8536899aa6947f83"
 ---
 <p>
  In another episode recorded at the

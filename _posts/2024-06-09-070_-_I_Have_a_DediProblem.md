@@ -6,6 +6,10 @@ date: 2024-06-09 17:09:02
 categories: episode
 dir_id: 31668987
 permalink: episode/70
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-070.mp3"
+audio_length: 83665832
+duration: "01:56:12"
+guid: "49477e10-bfd6-4e3c-b02d-79b991eab035"
 ---
 <p dir="ltr" style="line-height: 1.56; margin-top: 10pt; margin-bottom: 0pt;">
  <span >

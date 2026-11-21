@@ -6,6 +6,10 @@ date: 2022-02-11 14:50:46
 categories: episode
 dir_id: 22102031
 permalink: episode/54
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-054.mp3"
+audio_length: 54989355
+duration: "01:16:22"
+guid: "ed91d840-ff8b-475b-b9ac-914f2e0bea78"
 ---
 <p>
  Willem Melching(<a href="https://twitter.com/PD0WM">

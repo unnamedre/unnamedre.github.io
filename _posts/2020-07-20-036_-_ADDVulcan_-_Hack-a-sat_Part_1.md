@@ -9,6 +9,10 @@ guests:
     - Amie DD
     - Will C
 permalink: episode/36
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-036.mp3"
+audio_length: 41261214
+duration: "00:57:18"
+guid: "bc0194ea-b491-4d8c-a941-4b522af8db51"
 ---
 <p>
  In today’s show, we chat with

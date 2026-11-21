@@ -6,6 +6,10 @@ date: 2022-07-04 19:00:26
 categories: episode
 dir_id: 23627684
 permalink: episode/59
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-059.mp3"
+audio_length: 44840058
+duration: "01:02:17"
+guid: "1d0ff7d1-6b31-4ea5-9bec-0e98033fc573"
 ---
 <p>
  <a href="https://twitter.com/mpeg4codec">

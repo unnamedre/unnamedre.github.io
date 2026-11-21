@@ -6,6 +6,10 @@ date: 2020-07-04 23:02:32
 categories: episode
 dir_id: 15086150
 permalink: episode/35
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-035.mp3"
+audio_length: 4553342
+duration: "00:06:19"
+guid: "582a8326-c33a-4729-ba26-7ecf448d6a37"
 ---
 <p>
  As we close on the start of our 4th year, we want to check in with you, the audience to find out more about who you are, how we are are doing and what would make the podcast better.

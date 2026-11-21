@@ -6,6 +6,10 @@ date: 2023-12-09 15:34:00
 categories: episode
 dir_id: 29000043
 permalink: episode/66
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-066.mp3"
+audio_length: 72152106
+duration: "01:40:13"
+guid: "6854840e-1474-487a-a9bd-07d400e149f5"
 ---
 <p>
  Reverse Engineering the MegaII with James Lewis.

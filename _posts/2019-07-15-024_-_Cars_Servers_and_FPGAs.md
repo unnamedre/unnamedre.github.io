@@ -7,6 +7,10 @@ categories: episode
 dir_id: 10520201
 guests: Rick Altherr
 permalink: episode/24
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-024.mp3"
+audio_length: 63272717
+duration: "01:27:53"
+guid: "349f3aaed8f04ec3b20f5443b4cb262e"
 ---
 <p>
  Rick Altherr joined Jen and Alvaro to talk about reverse engineering cars, server BMC’s, FPGA’s, and more!

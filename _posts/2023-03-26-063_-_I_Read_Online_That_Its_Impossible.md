@@ -6,6 +6,10 @@ date: 2023-03-26 14:26:00
 categories: episode
 dir_id: 26342769
 permalink: episode/63
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-063.mp3"
+audio_length: 54017170
+duration: "01:15:01"
+guid: "8fdb2b62-1947-4582-9960-4695888d3b4a"
 ---
 <p dir="ltr">
  Jen and Alvaro chat with Thomas Roth (

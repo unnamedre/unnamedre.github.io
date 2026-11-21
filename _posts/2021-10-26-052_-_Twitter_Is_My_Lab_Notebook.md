@@ -6,6 +6,10 @@ date: 2021-10-26 13:54:42
 categories: episode
 dir_id: 20943785
 permalink: episode/52
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-052.mp3"
+audio_length: 91354282
+duration: "02:06:53"
+guid: "0ad55315-a5bb-4dd1-a260-a1df8a42d22e"
 ---
 <p>
  In this episode, we chat with

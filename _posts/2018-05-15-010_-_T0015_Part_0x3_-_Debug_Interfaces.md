@@ -6,6 +6,10 @@ date: 2018-05-15 02:27:43
 categories: episode
 dir_id: 6593818
 permalink: episode/10
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-010.mp3"
+audio_length: 25531928
+duration: "00:35:28"
+guid: "beb2ddee871f567eba91a8c9b8369dd1"
 ---
 <p>
  This week we talk about the nebulous world of debugging interfaces, some of their history, and how they can be used in reverse engineering. We cover the basics of what are

@@ -7,6 +7,10 @@ categories: episode
 dir_id: 10252769
 guests: Jonathan Brossard
 permalink: episode/21
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-021.mp3"
+audio_length: 19396702
+duration: "00:26:56"
+guid: "500a6e19572a403ca8cb954d2447b4e6"
 ---
 <p>
  In this episode, Alvaro is joined by

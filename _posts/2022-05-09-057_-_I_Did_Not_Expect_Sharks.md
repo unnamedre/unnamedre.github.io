@@ -6,6 +6,10 @@ date: 2022-05-09 18:04:02
 categories: episode
 dir_id: 23052989
 permalink: episode/57
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-057.mp3"
+audio_length: 70262059
+duration: "01:37:35"
+guid: "a89a9908-861f-4971-8628-4098c3117809"
 ---
 <p>
  Michael Ossmann (

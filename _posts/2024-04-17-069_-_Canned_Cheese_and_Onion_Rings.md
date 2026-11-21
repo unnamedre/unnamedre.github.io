@@ -6,6 +6,10 @@ date: 2024-04-17 12:33:14
 categories: episode
 dir_id: 30861818
 permalink: episode/69
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-069.mp3"
+audio_length: 59732763
+duration: "01:22:58"
+guid: "40cb2d4c-d716-4b18-862e-5d09ddb36d72"
 ---
 <p>
  Ian from

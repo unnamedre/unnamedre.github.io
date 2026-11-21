@@ -6,6 +6,10 @@ date: 2021-03-18 05:53:34
 categories: episode
 dir_id: 18374732
 permalink: episode/46
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-046.mp3"
+audio_length: 72362320
+duration: "01:34:20"
+guid: "42ac8367-9bb1-4c69-9f35-7ea648ecb9aa"
 ---
 <p>
  <a href="https://twitter.com/CamHackett">

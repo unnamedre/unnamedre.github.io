@@ -7,6 +7,10 @@ categories: episode
 dir_id: 5689359
 guests: Dmitry Grinberg
 permalink: episode/2
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-002.mp3"
+audio_length: 39603324
+duration: "00:55:00"
+guid: "49ef1ca7234c0f5ab6bc123201316942"
 ---
 <p>
  In this episode, Jen and Alvaro chat with Dmitry Grinberg (

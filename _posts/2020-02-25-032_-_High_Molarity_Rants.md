@@ -7,6 +7,10 @@ categories: episode
 dir_id: 13293566
 guests: John McMaster
 permalink: episode/32
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-032.mp3"
+audio_length: 50796316
+duration: "01:10:33"
+guid: "6157e74d-736a-4d95-a19e-85f146523916"
 ---
 <p>
  In this episode, Jen and Alvaro talk with John McMaster about the

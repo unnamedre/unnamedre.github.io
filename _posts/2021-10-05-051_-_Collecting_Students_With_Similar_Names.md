@@ -6,6 +6,10 @@ date: 2021-10-05 05:22:12
 categories: episode
 dir_id: 20708993
 permalink: episode/51
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-051.mp3"
+audio_length: 82678871
+duration: "01:28:17"
+guid: "a8bedf67-dc82-4baf-a0da-cf22e026a15a"
 ---
 <p>
  Our guest, Jiska Classen (<a href="https://twitter.com/naehrdine">@naehrdine</a>) is a security researcher at University of Darmstadt (why, yes you can specialize in Security here) and focuses on reverse engineering wireless things. She is a speaker at this year’s

@@ -7,6 +7,10 @@ categories: episode
 dir_id: 9292235
 guests: Holly Graceful
 permalink: episode/19
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-019.mp3"
+audio_length: 32420428
+duration: "00:45:02"
+guid: "8cebaf3f29f647abae779becd00da29b"
 ---
 <p>
  This week, Holly Graceful (

@@ -6,6 +6,10 @@ date: 2021-06-06 14:11:10
 categories: episode
 dir_id: 19369796
 permalink: episode/48
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-048.mp3"
+audio_length: 54739470
+duration: "01:16:02"
+guid: "0f85e577-ad10-4213-b84f-57dd8e417989"
 ---
 <p>
  <a href="https://twitter.com/antitree">

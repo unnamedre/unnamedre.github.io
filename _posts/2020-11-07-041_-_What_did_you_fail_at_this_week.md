@@ -8,6 +8,10 @@ dir_id: 16719725
 permalink: episode/41
 guests:
     - Samy Kamkar
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-041.mp3"
+audio_length: 66056017
+duration: "01:31:45"
+guid: "174bd9d2-b52a-40d8-beaa-caf75b350840"
 ---
 <p>
  Jen and Alvaro chat with Samy Kamkar about his new NAT Slipstreaming research and a lot more!

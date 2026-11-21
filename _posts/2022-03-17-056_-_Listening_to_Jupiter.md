@@ -6,6 +6,10 @@ date: 2022-03-17 03:23:00
 categories: episode
 dir_id: 22476647
 permalink: episode/56
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-056.mp3"
+audio_length: 52530000
+duration: "01:12:57"
+guid: "898c4128-06cb-4523-afcb-d3b19b18863c"
 ---
 <p>
  Oleg Kutkov (

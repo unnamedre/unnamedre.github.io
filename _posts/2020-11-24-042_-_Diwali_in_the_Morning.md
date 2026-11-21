@@ -8,6 +8,10 @@ dir_id: 16904030
 permalink: episode/42
 guests:
     - Asmita Jha
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-042.mp3"
+audio_length: 41008377
+duration: "00:55:25"
+guid: "53c69d99-4962-433c-9cb2-da476a6e77dd"
 ---
 <p>
  <a href="https://twitter.com/aj_0x00">

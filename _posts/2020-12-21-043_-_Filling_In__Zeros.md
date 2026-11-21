@@ -7,6 +7,10 @@ categories: episode
 dir_id: 17284688
 permalink: episode/43
 guests: Dmitry Grinberg
+audio_url: "https://media.unnamedre.com/episodes/unnamedre-043.mp3"
+audio_length: 59516113
+duration: "01:15:43"
+guid: "7cbf2ad0-a886-45b8-8a59-ba4a40bdca1f"
 ---
 <p>
  Our guest was Dmitry Grinberg who shared his pokewalker project which included a
