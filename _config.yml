@@ -15,3 +15,18 @@ author:
   url:            https://twitter.com/unnamed_show
 
 paginate:         5
+
+# Podcast feed (feed.xml). Episodes need audio_url/audio_length/duration/guid in front matter.
+podcast:
+  url:          https://unnamedre.com
+  feed_url:     https://unnamedre.com/feed.xml
+  title:        'Unnamed Reverse Engineering Podcast'
+  description:  'Listen and learn about different reverse engineering hardware projects and methods as Alvaro (@alvaroprieto) and Jen(@rebelbotjen) talk with guests about their work.'
+  author:       'Jen Costillo and Alvaro Prieto'
+  owner_name:   'Alvaro Prieto, Jen Costillo'
+  email:        show@unnamedre.com
+  artwork:      /public/podcast/artwork.jpg
+  # podcast:guid = uuidv5(ead4c236-bf58-58c6-a2c6-a6b28d128cb6, "unnamedre.com/feed.xml"). Never change it.
+  guid:         a661c4a6-6eb1-5155-bfb5-eff1e66bc654
+  # OP3 download stats prefix; the enclosure becomes <op3_prefix><audio_url without https://>
+  op3_prefix:   https://op3.dev/e,pg=a661c4a6-6eb1-5155-bfb5-eff1e66bc654/

@@ -1,0 +1,60 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{%- assign p = site.podcast -%}
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>{{ p.title | xml_escape }}</title>
+  <link>{{ p.url }}</link>
+  <atom:link href="{{ p.feed_url }}" rel="self" type="application/rss+xml"/>
+  <itunes:new-feed-url>{{ p.feed_url }}</itunes:new-feed-url>
+  <description>{{ p.description | xml_escape }}</description>
+  <itunes:summary>{{ p.description | xml_escape }}</itunes:summary>
+  <language>en</language>
+  <pubDate>{{ site.posts.first.date | date_to_rfc822 }}</pubDate>
+  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <generator>Jekyll</generator>
+  <itunes:author>{{ p.author | xml_escape }}</itunes:author>
+  <itunes:owner>
+    <itunes:name>{{ p.owner_name | xml_escape }}</itunes:name>
+    <itunes:email>{{ p.email }}</itunes:email>
+  </itunes:owner>
+  <image>
+    <url>{{ p.url }}{{ p.artwork }}</url>
+    <title>{{ p.title | xml_escape }}</title>
+    <link>{{ p.url }}</link>
+  </image>
+  <itunes:image href="{{ p.url }}{{ p.artwork }}"/>
+  <itunes:category text="Technology"/>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <podcast:locked owner="{{ p.email }}">yes</podcast:locked>
+  <podcast:guid>{{ p.guid }}</podcast:guid>
+{%- for post in site.posts %}
+{%- if post.audio_url %}
+{%- assign ep = post.title | split: " - " | first | plus: 0 %}
+{%- capture body %}{{ post.content | replace: 'src="/', 'src="https://unnamedre.com/' | replace: 'href="/', 'href="https://unnamedre.com/' | replace: "]]>", "]]]]><![CDATA[>" | strip }}{% endcapture %}
+  <item>
+    <title>{{ post.title | xml_escape }}</title>
+    <itunes:title>{{ post.title | xml_escape }}</itunes:title>
+    <itunes:episode>{{ ep }}</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">{{ post.guid }}</guid>
+    <link>{{ p.url }}{{ post.url }}</link>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <enclosure url="{{ p.op3_prefix }}{{ post.audio_url | remove_first: 'https://' }}" length="{{ post.audio_length }}" type="audio/mpeg"/>
+    <itunes:duration>{{ post.duration }}</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <description><![CDATA[{{ body }}]]></description>
+    <content:encoded><![CDATA[{{ body }}]]></content:encoded>
+  </item>
+{%- endif %}
+{%- endfor %}
+</channel>
+</rss>
