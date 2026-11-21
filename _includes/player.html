@@ -1,0 +1,14 @@
+{%- comment -%}
+  Episode audio player. Usage: {% include player.html post=page %}
+  Plays through the OP3 prefix so web plays show up in the download stats.
+{%- endcomment -%}
+{%- if include.post.audio_url -%}
+{%- assign path = include.post.audio_url | remove_first: 'https://' -%}
+{%- assign src = site.podcast.op3_prefix | append: path -%}
+<div class="episode-player">
+  <audio controls preload="none" src="{{ src }}">
+    <a href="{{ src }}">Download the episode (MP3)</a>
+  </audio>
+  <p class="episode-download"><a href="{{ src }}" download>Download MP3</a> &middot; {{ include.post.duration }}</p>
+</div>
+{%- endif -%}
