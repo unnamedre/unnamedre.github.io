@@ -46,3 +46,4 @@ node_modules
 *.pyc
 *.lock
 venv/
+CLAUDE.md
