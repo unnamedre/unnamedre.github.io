@@ -16,6 +16,18 @@ author:
 
 paginate:         5
 
+# Repo-only files that must not be published. This replaces Jekyll's default
+# list, so the Gemfile/vendor entries are repeated here.
+exclude:
+  - CLAUDE.md
+  - README.md
+  - LICENSE.md
+  - id3_tags.xml
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+
 # Podcast feed (feed.xml). Episodes need audio_url/audio_length/duration/guid in front matter.
 podcast:
   url:          https://unnamedre.com
