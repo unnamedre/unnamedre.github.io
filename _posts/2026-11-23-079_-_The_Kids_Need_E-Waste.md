@@ -18,7 +18,7 @@ Here are some photos Jen took of their setup at VCF Midwest:
 {% include image.html img="/images/079/image2.jpg" url="/images/079/image2.jpg" %}
 {% include image.html img="/images/079/image3.jpg" url="/images/079/image3.jpg" %}
 
-You can find Frank on [GitHub](https://github.com/palazzol), where the [Cyberamic Control Center](https://github.com/palazzol/CyberamicControlCenter) repo is the central place for all the Chuck E. Cheese system info. Evan is at [abzman.com](https://abzman.com) and his older blog [avoidspikes.com](http://avoidspikes.com).
+You can find Frank on [GitHub](https://github.com/palazzol), where the [Cyberamic Control Center](https://github.com/palazzol/CyberamicControlCenter) repo is the central place for all the Chuck E. Cheese system info, and at [avoidspikes.com](http://avoidspikes.com). Evan is at [abzman.com](https://abzman.com).
 
 Here are links to some of the things we talked about:
 
